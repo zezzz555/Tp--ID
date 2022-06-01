@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ficha4;
+package tp.cidadesdomundo;
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;

@@ -3,6 +3,7 @@ package tp.cidadesdomundo;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  *
@@ -11,82 +12,96 @@ import java.util.ArrayList;
 public class TpCidadesDoMundo {
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         //------WRAPPERS------
-/*
-        String nome="Lisboa";
-        Wrappers.obtemNome(nome);
-        Wrappers.obtemPais(nome);
-        Wrappers.obtemBandeiraPais(nome);
-        Wrappers.obtemBandeiraCidade(nome);
-        Wrappers.obtemPresidente(nome);
-        Wrappers.obtemClima(nome);
-        Wrappers.obtemFuso(nome);
-        Wrappers.obtemWebsite(nome);
-        Wrappers.obtemCapital(nome);
-        Wrappers.obtemArea(nome);
-        Wrappers.obtemDensidade(nome);
-        Wrappers.obtemLatitude(nome);
-        Wrappers.obtemLongitude(nome);
-        Wrappers.obtemNHabitantes(nome);
-        Wrappers.obtemCodigoPostal(nome);
-        Wrappers.obtemAltitude(nome);
-        Wrappers.obtemLinguagens(nome);
-        Wrappers.obtemMonumentos(nome);
-        Wrappers.obtemCidadesGeminadas(nome);
-*/
-        
-        
-        //------OBJETO------      
-/*        Cidades x=criaCidade("Lisboa");
-        System.out.println("Nome: "+x.getNomeCompleto());
-        System.out.println("Nome Conhecido: "+x.getNome());
-        System.out.println("Foto: "+x.getFotografia());
-        System.out.println("Nascimento: "+x.getNascimento()); 
-        System.out.println("Idade: "+x.getIdade());
-        System.out.println("Nacionalidade: "+x.getNacionalidade());
-        System.out.println("Altura: "+x.getAltura()+"m");
-        System.out.println("Peso: "+x.getPeso()); 
-        System.out.println("Pe preferido: "+x.getPe());
-        System.out.println("Posicao: "+x.getPosicoes()); 
-        System.out.println("Clube atual: "+x.getClubeAtual());
-        System.out.println("Clubes anteriores: "+x.getClubesAnteriores());
-       System.out.println("Premios: "+x.getPremios()); 
-        System.out.println("Estado Atual: "+x.getEstado());
-        System.out.println("Valor do contrato: "+x.getValor()); 
-        System.out.println("Empresario: "+x.getEmpresario());
-        System.out.println("Ranking: "+x.getRaking()); 
-        System.out.println("Selecao: "+x.getSelecao()); 
-*/
-    }
-/*    
-     public static Cidades criaCidade(String nome) throws IOException{
-        
-        Cidades x;
-        String nome=Wrappers.obtemNome(nome);
-        String pais=Wrappers.obtemPais(nome);
-        String bandeiraPais=Wrappers.obtemBandeiraPais(nome);
-        String bandeiraCidade=Wrappers.obtemBandeiraCidade(nome);
-        String presidente=Wrappers.obtemPresidente(nome);
-        String clima=Wrappers.obtemClima(nome);
-        String fuso=Wrappers.obtemFuso(nome);
-        String website=Wrappers.obtemWebsite(nome);
-        bolean capital=Wrappers.obtemCapital(nome);
-        double area=Wrappers.obtemArea(nome);
-        double densidade=Wrappers.obtemDensidade(nome);
-        double latitude=Wrappers.obtemLatitude(nome);
-        double longitude=Wrappers.obtemLongitude(nome);
-        int nHabitantes=Wrappers.obtemNHabitantes(nome);
-        int codigoPostal=Wrappers.obtemCodigoPostal(nome);
-        int altitude=Wrappers.obtemAltitude(nome);
-        ArrayList <String> linguagens =Wrappers.obtemLinguagens(nome);
-        ArrayList <String> monumentos =Wrappers.obtemMonumentos(nome);
-        ArrayList <String> cidadesGeminadas =Wrappers.obtemCidadesGeminadas(nome);
-        
+        /*
+        Scanner myObj = new Scanner(System.in);
+        String pesquisa = null;
+        do{
+            System.out.println("Introduza no formato: cidade, pais");
+            pesquisa = myObj.nextLine(); 
+            String[] output = pesquisa.split(", ");
+            String cidade = output[0];
+            String pais = output[1];
+            System.out.println(cidade+", "+pais);
 
-        x=new Cidades(nome,pais,bandeiraPais,bandeiraCidade,presidente,clima,fuso,website,capital,area,densidade,latitude,longitude,nHabitantes,codigoPostoal,altitude,linguagens,monumentos,cidadesGeminadas);
+            String devolveLinkWiki = Wrappers.obtemLinkWikipedia(cidade);
+            System.out.println("Link wikipedia: "+devolveLinkWiki);
+            String devolveLinkdbCity = Wrappers.obtemLinkdbCity(cidade, pais);
+            System.out.println("Link dbcity: "+devolveLinkdbCity);
+            boolean capital = Wrappers.obtemCapital(cidade,pais);
+            System.out.println("Capital: "+capital);
+            String bandeiraPais = Wrappers.obtemBandeiraPais(cidade,pais);
+            System.out.println("Bandeira pais: "+bandeiraPais);
+            String bandeiraCidade = Wrappers.obtemBandeiraCidade(cidade);
+            System.out.println("Bandeira cidade: "+bandeiraCidade);
+            String presidente = Wrappers.obtemPresidente(cidade,pais);
+            System.out.println("Presidente: "+presidente);
+            String clima = Wrappers.obtemClima(cidade,pais);
+            System.out.println("Clima: "+clima);
+            String fuso = Wrappers.obtemFuso(cidade,pais);
+            System.out.println("Fuso: "+fuso);
+            String website = Wrappers.obtemWebsite(cidade,pais);
+            System.out.println("Website: "+website);
+            double area = Wrappers.obtemArea(cidade,pais);
+            System.out.println("Area: "+area);      
+            double densidade = Wrappers.obtemDensidade(cidade,pais);
+            System.out.println("Densidade: "+densidade); 
+            double latitude = Wrappers.obtemLatitude(cidade,pais);
+            System.out.println("Latitude: "+latitude);      
+            double longitude = Wrappers.obtemLongitude(cidade,pais);
+            System.out.println("Longitude: "+longitude);
+            int nHabitantes = Wrappers.obtemNHabitantes(cidade,pais);
+            System.out.println("nHabitantes: "+nHabitantes); 
+            int codigoPostal = Wrappers.obtemCodigoPostal(cidade,pais);
+            System.out.println("codigoPostal: "+codigoPostal);     
+            ArrayList<String> linguagens = new ArrayList();
+            int altitude = Wrappers.obtemAltitude(cidade,pais);
+            System.out.println("Altitude: "+altitude); 
+            linguagens = Wrappers.obtemLinguagens(cidade,pais);
+            System.out.print("Linguagens oficiais: ");
+            for (String l : linguagens) 
+                System.out.print(l+" ; "); 
+            System.out.println("");
+            ArrayList<String> monumentos = new ArrayList();
+            monumentos = Wrappers.obtemMonumentos(cidade);
+            System.out.print("Link img Monumentos: ");
+            for (String m : monumentos) 
+                System.out.print(m +" ; ");
+            System.out.println("");
+            ArrayList<String> geminadas = new ArrayList();
+            geminadas = Wrappers.obtemCidadesGeminadas(cidade,pais);
+            System.out.print("Cidades geminadas: ");
+            for (String g : geminadas) 
+                System.out.print(g+" ; ");
+            System.out.println("");        
+        }while(true);
+        */
+        //new Interface().setVisible(true);
+ 
+        //------OBJETO------    
+        Cidades x=Cidades.criaCidade("Lisboa","Portugal");
+        System.out.println("Cidade: "+x.getCidade());
+        System.out.println("Pais: "+x.getPais());
+        System.out.println("Bandeira pais: "+x.getBandeiraPais());
+        System.out.println("Bandeira cidade: "+x.getBandeiraCidade()); 
+        System.out.println("É Capital? "+x.isCapital());
+        System.out.println("Presidente: "+x.getPresidente());
+        System.out.println("Clima: "+x.getClima());
+        System.out.println("Fuso: "+x.getFuso()); 
+        System.out.println("Website: "+x.getWebsite());
+        System.out.println("Area: "+x.getArea()+" km^2"); 
+        System.out.println("Densidade populacional: "+x.getDensidade()+" hab_hm^2");
+        System.out.println("Latitude: "+x.getLatitude());
+        System.out.println("Longitude: "+x.getLongitude()); 
+        System.out.println("Numero habitantes: "+x.getnHabitantes());
+        System.out.println("Codigo postal: "+x.getCodigoPostal()); 
+        System.out.println("Altitude: "+x.getAltitude());
+        System.out.println("Linguagens oficiais: "+x.getLinguagens());
+        System.out.println("Lista de img de Monumentos: "+x.getMonumentos()); 
+        System.out.println("Cidades geminadas: "+x.getCidadesGeminadas()); 
 
-        return x;
-    }
-*/   
+    }   
+   
 }
+

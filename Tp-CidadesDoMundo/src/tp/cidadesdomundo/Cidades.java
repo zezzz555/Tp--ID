@@ -4,6 +4,7 @@
  */
 package tp.cidadesdomundo;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 /**
@@ -20,7 +21,7 @@ public class Cidades {
     ArrayList<String> monumentos=new ArrayList();
     ArrayList<String> cidadesGeminadas=new ArrayList();
     
-    public Cidades(String cidade, String pais, String bandeiraPais, String bandeiraCidade, String presidente, String clima, String fuso, String website, boolean capital, double area, double densidade, double latitude, double longitude, int nHabitantes, int codigoPostal, int altitude) {
+    public Cidades(String cidade, String pais, String bandeiraPais, String bandeiraCidade, String presidente, String clima, String fuso, String website, boolean capital, double area, double densidade, double latitude, double longitude, int nHabitantes, int codigoPostal, int altitude,ArrayList linguagens, ArrayList monumentos, ArrayList cidadesGeminadas) {
         this.cidade = cidade;
         this.pais = pais;
         this.bandeiraPais = bandeiraPais;
@@ -37,6 +38,9 @@ public class Cidades {
         this.nHabitantes = nHabitantes;
         this.codigoPostal = codigoPostal;
         this.altitude = altitude;
+        this.linguagens = linguagens;
+        this.monumentos = monumentos;
+        this.cidadesGeminadas = cidadesGeminadas;
     }
 
     public String getCidade() {
@@ -190,5 +194,34 @@ public class Cidades {
     public void setCidadesGeminadas(ArrayList<String> cidadesGeminadas) {
         this.cidadesGeminadas = cidadesGeminadas;
     }
+    
+    public static Cidades criaCidade(String cidade_, String pais_) throws IOException{    
+        Cidades x;
+        String cidade=cidade_;
+        String pais=pais_;
+        String bandeiraPais=Wrappers.obtemBandeiraPais(cidade,pais);
+        String bandeiraCidade=Wrappers.obtemBandeiraCidade(cidade);
+        String presidente=Wrappers.obtemPresidente(cidade,pais);
+        String clima=Wrappers.obtemClima(cidade,pais);
+        String fuso=Wrappers.obtemFuso(cidade,pais);
+        String website=Wrappers.obtemWebsite(cidade,pais);
+        boolean capital=Wrappers.obtemCapital(cidade,pais);
+        double area=Wrappers.obtemArea(cidade,pais);
+        double densidade=Wrappers.obtemDensidade(cidade,pais);
+        double latitude=Wrappers.obtemLatitude(cidade,pais);
+        double longitude=Wrappers.obtemLongitude(cidade,pais);
+        int nHabitantes=Wrappers.obtemNHabitantes(cidade,pais);
+        int codigoPostal=Wrappers.obtemCodigoPostal(cidade,pais);
+        int altitude=Wrappers.obtemAltitude(cidade,pais);
+        ArrayList <String> linguagens =Wrappers.obtemLinguagens(cidade,pais);
+        ArrayList <String> monumentos =Wrappers.obtemMonumentos(cidade);
+        ArrayList <String> cidadesGeminadas =Wrappers.obtemCidadesGeminadas(cidade,pais);
+        
+
+        x=new Cidades(cidade, pais, bandeiraPais, bandeiraCidade, presidente, clima, fuso, website, capital, area, densidade, latitude, longitude, nHabitantes, codigoPostal, altitude, linguagens,  monumentos, cidadesGeminadas);
+
+        return x;
+    }
+   
     
 }

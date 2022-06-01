@@ -1,0 +1,499 @@
+Barcelona, Espanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Barcelona
+Link dbcity: https://pt.db-city.com/Espanha--Catalunha--Barcelona--Barcelona
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/100px-Flag_of_Barcelona.svg.png
+Presidente: Ada COLAU BALLANO
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)
+Fuso: UTC +1:00 (Europe/Madrid)
+Website: https://www.barcelona.cat
+Area: 98.21
+Densidade: 16665.9
+Latitude: 41.3879
+Longitude: 2.16992
+nHabitantes: 1636762
+codigoPostal: 08071
+Linguagens oficiais: Espanhol ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Barcelona%2C_airport_approach_%2827733825928%29.jpg/288px-Barcelona%2C_airport_approach_%2827733825928%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/18/View_of_Nativity_Fa%C3%A7ade_of_Basilica_and_Expiatory_Church_of_the_Holy_Family_%28Bas%C3%ADlica_i_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia%29_%28_UNESCO_World_Heritage_Site%29._Barcelona%2C_Catalonia%2C_Spain.jpg/88px-thumbnail.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Barcelona_-_panoramio_%28715%29.jpg/196px-Barcelona_-_panoramio_%28715%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barcelona_-_Arc_de_Triomf_%282%29.JPG/162px-Barcelona_-_Arc_de_Triomf_%282%29.JPG ; //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg/122px-Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Las_Ramblas%2C_Barcelona.jpg/199px-Las_Ramblas%2C_Barcelona.jpg ; 
+Cidades geminadas: Tirana ; Rosário ; Antuérpia ; Sarajevo ; Rio de Janeiro ; São Paulo ; Варна ; Montréal ; Valparaíso ; Xangai ; Medellín ; Pereira ; Manizales ; Havana ; Montpellier ; Perpinhã ; Colônia ; Colônia ; Dublin ; Tel Aviv ; Sassari ; Kobe ; Pusan ; Mexico ; Monterrey ; Gaza ; Gdańsk ; São Petersburgo ; Monzón ; Tunes ; Istambul ; Dubai ; Boston ; São Francisco ; Montevidéu ; 
+Introduza no formato: cidade, pais
+Madrid, Espanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Madrid
+Link dbcity: https://pt.db-city.com/Espanha--Madrid--Madrid--Madrid
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bandera_de_la_ciudad_de_Madrid.svg/100px-Bandera_de_la_ciudad_de_Madrid.svg.png
+Presidente: José Luis Martínez-Almeida Navasqües
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)
+Fuso: UTC +1:00 (Europe/Madrid)
+Website: https://www.madrid.es
+Area: 605.77
+Densidade: 5391.7
+Latitude: 40.4167
+Longitude: -3.70325
+nHabitantes: 3266126
+codigoPostal: 28005
+Linguagens oficiais: Espanhol ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Panorama_de_Madrid_desde_el_parque_de_San_Isidro.JPG/296px-Panorama_de_Madrid_desde_el_parque_de_San_Isidro.JPG ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg/148px-Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Plaza_Mayor_de_Madrid_06.jpg/144px-Plaza_Mayor_de_Madrid_06.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/da/MADRID_060518_MXALX_087.jpg/146px-MADRID_060518_MXALX_087.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Palacio_de_Comunicaciones_-_46.jpg/146px-Palacio_de_Comunicaciones_-_46.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CTBA_%28Madrid%29_39.jpg/199px-CTBA_%28Madrid%29_39.jpg ; 
+Cidades geminadas: Tirana ; Buenos Aires ; Bruxelas ; La Paz ; Sarajevo ; Rio de Janeiro ; Santiago ; Pequim ; Bogotá ; San José ; Havana ; Santo Domingo ; Quito ; Cairo ; San Salvador ; Cannes ; Bordéus ; Paris ; Berlim ; Berlim ; Guatemala ; Tegucigalpa ; Roma ; Trípoli ; Nouakchott ; Mexico ; Mexico ; Rabat ; Manágua ; Panama ; Assunção ; Lima ; Huacho ; Warszawa ; Lisboa ; Drobeta-Turnu Severin ; Moscovo ; Móstoles ; Abu Dhabi ; San Juan ; Miami ; Nova Iorque ; Montevidéu ; Caracas ; Libertador ; Belgrado ; Malabo ; 
+Introduza no formato: cidade, pais
+Sevilha, Espanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Sevilha
+Link dbcity: https://pt.db-city.com/Espanha--Andaluzia--Sevilha--Sevilha
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Sevilla%2C_Spain.svg/100px-Flag_of_Sevilla%2C_Spain.svg.png
+Presidente: Juan ESPADAS CEJAS
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)
+Fuso: UTC +1:00 (Europe/Madrid)
+Website: https://www.sevilla.org
+Area: 141.31
+Densidade: 4872.9
+Latitude: 37.3826
+Longitude: -5.99629
+nHabitantes: 688592
+codigoPostal: 41071
+Linguagens oficiais: Espanhol ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Collage_de_la_ciudad_de_Sevilla%2C_capital_de_Andaluc%C3%ADa%2C_Espa%C3%B1a.png/290px-Collage_de_la_ciudad_de_Sevilla%2C_capital_de_Andaluc%C3%ADa%2C_Espa%C3%B1a.png ; 
+Cidades geminadas: Buenos Aires ; Barcelona ; Cartagena das Índias ; Havana ; San Salvador ; Angers ; Düsseldorf ; Campeche ; Guadalajara ; Marraquexe ; Kraków ; Drobeta-Turnu Severin ; Laredo ; Córdova ; Sevilla la Nueva ; Medina de Rioseco ; Kansas City ; Columbus ; 
+Introduza no formato: cidade, pais
+Oslo, Noruega
+Link wikipedia: https://pt.wikipedia.org/wiki/Oslo
+Link dbcity: https://pt.db-city.com/Noruega--Østlandet--Oslo--Oslo
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/158.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Oslo.svg/100px-Flag_of_Oslo.svg.png
+Presidente: Fabian Stang
+Clima: Clima continental húmido (Classificação climática de Köppen-Geiger: Dfb)
+Fuso: UTC +1:00 (Europe/Oslo)
+Website: http://www.oslo.kommune.no
+Area: 453.99
+Densidade: 1234.6
+Latitude: 59.9138
+Longitude: 10.7387
+nHabitantes: 560484
+codigoPostal: 0037
+Linguagens oficiais: Norueguês bokmål ; Novo norueguês ; Norueguês ; 
+Link img Monumentos: https://upload.wikimedia.org/wikipedia/commons/5/5b/Oslo_newer_montage_2013.png ; 
+Cidades geminadas: Antuérpia ; Xangai ; Copenhaga ; Helsínquia ; Schleswig ; Reykjavík ; Tel Aviv ; Vilnius ; Roterdão ; Warszawa ; São Petersburgo ; Gutemburgo ; Estocolmo ; Londres ; Madison ; Washington ; Nova Iorque ; 
+Introduza no formato: cidade, pais
+Bergen, Noruega
+Link wikipedia: https://pt.wikipedia.org/wiki/Bergen
+Link dbcity: https://pt.db-city.com/Noruega--Vestlandet--Hordaland--Bergen
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/158.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Bergen%2C_Norway.svg/100px-Flag_of_Bergen%2C_Norway.svg.png
+Presidente: Gunnar Bakke
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Oslo)
+Website: http://www.bergen.kommune.no
+Area: 465.45
+Densidade: 541.5
+Latitude: 60.3881
+Longitude: 5.33185
+nHabitantes: 252051
+codigoPostal: 5020
+Linguagens oficiais: Norueguês bokmål ; Novo norueguês ; Norueguês ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Houses_in_Bryggen_%28Norway%29.jpg/250px-Houses_in_Bryggen_%28Norway%29.jpg ; 
+Cidades geminadas: Rosário ; Québec ; Århus ; Turku ; Lübeck ; Rostock ; Lübeck ; Málaga ; Gutemburgo ; Newcastle upon Tyne ; Seattle ; Asmara ; 
+Introduza no formato: cidade, pais
+Berlim, Alemanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Berlim
+Link dbcity: https://pt.db-city.com/Alemanha--Berlim--Berlim
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/78.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/100px-Flag_of_Berlin.svg.png
+Presidente: Klaus Wowereit
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Berlin)
+Website: https://www.berlin.de
+Area: 887.70
+Densidade: 3898.5
+Latitude: 52.5186
+Longitude: 13.4081
+nHabitantes: 3460725
+codigoPostal: 10178
+Linguagens oficiais: Língua alemã ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg/268px-Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Brandenburger_Tor_Abend.jpg/132px-Berlin_Brandenburger_Tor_Abend.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berliner_Dom%2C_Westfassade%2C_Nacht%2C_160309%2C_ako.jpg/132px-Berliner_Dom%2C_Westfassade%2C_Nacht%2C_160309%2C_ako.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode%2C_Berl%C3%ADn%2C_Alemania%2C_2016-04-22%2C_DD_30.jpg/155px-Museo_Bode%2C_Berl%C3%ADn%2C_Alemania%2C_2016-04-22%2C_DD_30.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Potsdamer-Platz-Hochhaeuser-2015.jpg/109px-Potsdamer-Platz-Hochhaeuser-2015.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg/268px-Reichstag_building_Berlin_view_from_west_before_sunset.jpg ; 
+Cidades geminadas: Buenos Aires ; Bruxelas ; Brasília ; Sófia ; Pequim ; Praha ; Copenhaga ; Paris ; Königs Wusterhausen ; Bottrop ; Kassel ; Wiesbaden ; Colônia ; Budapeste ; Bombaim ; Jacarta ; Tóquio ; Mexico ; Windhoek ; Tychy ; Szczecin ; Warszawa ; Moscovo ; Madrid ; Madrid ; Istambul ; Londres ; Los Angeles ; Los Angeles ; Tashkent ; 
+Introduza no formato: cidade, pais
+Hamburgo, Alemanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Hamburgo
+Link dbcity: https://pt.db-city.com/Alemanha--Hamburgo--Hamburgo
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/78.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/120px-Flag_of_Hamburg.svg.png
+Presidente: Olaf Scholz
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Berlin)
+Website: https://www.hamburg.de
+Area: 755.16
+Densidade: 2365.7
+Latitude: 53.5506
+Longitude: 9.99333
+nHabitantes: 1786448
+codigoPostal: 20038
+Linguagens oficiais: Língua alemã ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alster_Hd_pano_a.jpg/266px-Alster_Hd_pano_a.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/df/00_9920_Hamburg_St._Michaelis.jpg/132px-00_9920_Hamburg_St._Michaelis.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Projekt_Hei%C3%9Fluftballon_-_Highflyer_-IMG-1420.jpg/132px-Projekt_Hei%C3%9Fluftballon_-_Highflyer_-IMG-1420.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg%2C_Speicherstadt%2C_Wasserschloss_--_2016_--_3230-6.jpg/132px-Hamburg%2C_Speicherstadt%2C_Wasserschloss_--_2016_--_3230-6.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rathaus_Hbg.jpg/132px-Rathaus_Hbg.jpg ; 
+Cidades geminadas: São Paulo ; Valdivia ; Xangai ; Praha ; Marselha ; Dresden ; Osaka ; Leão ; São Petersburgo ; Dar es Salaam ; Chicago ; 
+Introduza no formato: cidade, pais
+Munique, Alemanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Munique
+Link dbcity: https://pt.db-city.com/Alemanha--Bayern--Munique-
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/78.png
+Bandeira cidade: null
+Presidente: Christian Ude
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Berlin)
+Website: https://www.muenchen.de
+Area: 310.69
+Densidade: 4355.4
+Latitude: 48.1369
+Longitude: 11.5753
+nHabitantes: 1353186
+codigoPostal: 80331
+Linguagens oficiais: Língua alemã ; 
+Link img Monumentos: https://upload.wikimedia.org/wikipedia/commons/e/eb/Munich_montage.png ; 
+Cidades geminadas: Bordéus ; Haiderabade ; Verona ; Verona ; Monterrey ; Kiev ; Edinburgh ; Edinburgh ; Cincinnati ; Harare ; 
+Introduza no formato: cidade, pais
+Dortmund, Alemanha
+Link wikipedia: https://pt.wikipedia.org/wiki/Dortmund
+Link dbcity: https://pt.db-city.com/Alemanha--Nordrhein-Westfalen--Dortmund
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/78.png
+Bandeira cidade: null
+Presidente: Ullrich Sierau
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Berlin)
+Website: http://www.dortmund.de
+Area: 280.71
+Densidade: 2067.8
+Latitude: 51.5139
+Longitude: 7.46528
+nHabitantes: 580444
+codigoPostal: 44135
+Linguagens oficiais: Língua alemã ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dortmund_collage.jpg/290px-Dortmund_collage.jpg ; 
+Cidades geminadas: Xiam ; Amiens ; Iserlohn ; Netanya ; Rostóvia do Dom ; Trebizonda ; Trebizonda ; Leeds ; Buffalo ; Novi Sad ; 
+Introduza no formato: cidade, pais
+Lisboa, Portugal
+Link wikipedia: https://pt.wikipedia.org/wiki/Lisboa
+Link dbcity: https://pt.db-city.com/Portugal--Lisboa--Lisboa
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandeira_municipal_de_Lisboa.png/90px-Bandeira_municipal_de_Lisboa.png
+Presidente: Fernando Medina
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)
+Fuso: UTC +0:00 (Europe/Lisbon)
+Website: https://www.lisboa.pt
+Area: 84.80
+Densidade: 5981.4
+Latitude: 38.7071
+Longitude: -9.13549
+nHabitantes: 507220
+codigoPostal: 1100
+Linguagens oficiais: Português ; Mirandese ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/280px-Lisbon_%2836831596786%29_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rua_Augusta_Arch_-_April_2019_%28cropped%29.jpg/139px-Rua_Augusta_Arch_-_April_2019_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lisboa_IMG_6805_%2820499138133%29.jpg/139px-Lisboa_IMG_6805_%2820499138133%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belem_Tower_-_April_2019_%282%29.jpg/139px-Belem_Tower_-_April_2019_%282%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Se_Cathedral_%2834242766515%29_%28cropped%29.jpg/139px-Se_Cathedral_%2834242766515%29_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Parque_das_Na%C3%A7%C3%B5es_Lisboa_%28cropped%29.jpg/280px-Parque_das_Na%C3%A7%C3%B5es_Lisboa_%28cropped%29.jpg ; 
+Cidades geminadas: Rio de Janeiro ; Salvador ; São Paulo ; São Paulo ; Brasília ; Salvador ; Praia ; Macao ; Pereira ; Manizales ; Zagreb ; Cacheu ; Bissau ; Budapeste ; Budapeste ; Malaca ; Rabat ; Maputo ; Guimarães ; São Tomé ; Madrid ; Tunes ; Jersey City ; Caracas ; Libertador ; 
+Introduza no formato: cidade, pais
+Almada, Portugal
+Link wikipedia: https://pt.wikipedia.org/wiki/Almada
+Link dbcity: https://pt.db-city.com/Portugal--Setúbal--Almada
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pt-alm3.png/90px-Pt-alm3.png
+Presidente: Inês de Medeiros
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)
+Fuso: UTC +0:00 (Europe/Lisbon)
+Website: http://www.m-almada.pt
+Area: 70.20
+Densidade: 2407.2
+Latitude: 38.6803
+Longitude: -9.15845
+nHabitantes: 168987
+codigoPostal: 2800
+Linguagens oficiais: Português ; Mirandese ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vista_de_Almada_by_Juntas_%28cropped%29.jpg/280px-Vista_de_Almada_by_Juntas_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edif%C3%ADcio_da_Antiga_C%C3%A2mara_Municipal%2C_Almada_-_panoramio_%28cropped%29.jpg/92px-Edif%C3%ADcio_da_Antiga_C%C3%A2mara_Municipal%2C_Almada_-_panoramio_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cristo_Rei_%2836211699613%29_%28cropped%29.jpg/92px-Cristo_Rei_%2836211699613%29_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2010-03-07_14_02_24_Portugal-Costa_de_Caparica_%28cropped%29.jpg/92px-2010-03-07_14_02_24_Portugal-Costa_de_Caparica_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Almada_Forum.jpg/139px-Almada_Forum.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Metro_Transportes_do_Sul_-_25_Abril_stop_%28cropped%29.jpg/139px-Metro_Transportes_do_Sul_-_25_Abril_stop_%28cropped%29.jpg ; 
+Cidades geminadas: Sal ; Regla ; 
+Introduza no formato: cidade, pais
+Porto, Portugal
+Link wikipedia: https://pt.wikipedia.org/wiki/Porto
+Link dbcity: https://pt.db-city.com/Portugal--Porto--Porto
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Porto.svg/90px-Flag_of_Porto.svg.png
+Presidente: Rui Moreira
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csb)
+Fuso: UTC +0:00 (Europe/Lisbon)
+Website: https://www.cm-porto.pt
+Area: 41.30
+Densidade: 5212.7
+Latitude: 41.15
+Longitude: -8.61024
+nHabitantes: 215284
+codigoPostal: 4049
+Linguagens oficiais: Português ; Mirandese ; 
+Link img Monumentos: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Porto_Montage.jpg/1200px-Porto_Montage.jpg ; 
+Cidades geminadas: Luanda ; Liège ; Recife ; Belo Horizonte ; São Vicente ; Xangai ; Macao ; Bordéus ; Jena ; Jena ; Duruelo de la Sierra ; Leão ; Vigo ; Akhisar ; Bristol ; 
+Introduza no formato: cidade, pais
+Maia, Portugal
+Link wikipedia: https://pt.wikipedia.org/wiki/Maia
+Link dbcity: https://pt.db-city.com/Portugal--Porto--Maia
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pt-mai3.png/90px-Pt-mai3.png
+Presidente: António Silva Tiago
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csb)
+Fuso: UTC +0:00 (Europe/Lisbon)
+Website: https://www.cm-maia.pt
+Area: 83.10
+Densidade: 1657.4
+Latitude: 41.2329
+Longitude: -8.62156
+nHabitantes: 137727
+codigoPostal: 4470
+Linguagens oficiais: Português ; Mirandese ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Church_Nogueira_by_Henrique_Matos_02_%28cropped%29.JPG/92px-Church_Nogueira_by_Henrique_Matos_02_%28cropped%29.JPG ; //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_weight_of_faith_on_our_heads_%286327393622%29.jpg/92px-The_weight_of_faith_on_our_heads_%286327393622%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/6/67/S%C3%A3o_Miguel_da_Maia_%286326640187%29.jpg/92px-S%C3%A3o_Miguel_da_Maia_%286326640187%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Maia_Camara_Municipal_%28cropped%29.jpg/139px-Maia_Camara_Municipal_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Maia_4_%28Portugal%29.jpg/139px-Maia_4_%28Portugal%29.jpg ; 
+Cidades geminadas: Sault Ste. Marie ; Tarrafal de São Nicolau ; Sal ; Ribeira Brava ; Andrézieux-Bouthéon ; Mantes-la-Jolie ; 
+Introduza no formato: cidade, pais
+Xangai, China
+Link wikipedia: https://pt.wikipedia.org/wiki/Xangai
+Link dbcity: https://pt.db-city.com/China--Xangai--Xangai
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/44.png
+Bandeira cidade: null
+Presidente: Yang Xiong
+Clima: Clima subtropical úmido (Classificação climática de Köppen-Geiger: Cfa)
+Fuso: UTC +8:00 (Asia/Shanghai)
+Website: http://www.shanghai.gov.cn
+Area: 6340.00
+Densidade: 3630.8
+Latitude: 31.2323
+Longitude: 121.469
+nHabitantes: 23019148
+codigoPostal: 200000
+Linguagens oficiais: Língua chinesa ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/288px-Pudong_Shanghai_November_2017_panorama.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%E8%B1%AB%E5%9B%ADScenery_in_ShangHai%2C_China_-_panoramio_%282%29.jpg/142px-%E8%B1%AB%E5%9B%ADScenery_in_ShangHai%2C_China_-_panoramio_%282%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/5/56/%E9%9C%93%E8%99%B9%E7%92%80%E7%92%A8%E5%8D%97%E4%BA%AC%E8%B7%AFScenery_in_ShangHai%2C_China_-_panoramio_%281%29.jpg/142px-%E9%9C%93%E8%99%B9%E7%92%80%E7%92%A8%E5%8D%97%E4%BA%AC%E8%B7%AFScenery_in_ShangHai%2C_China_-_panoramio_%281%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bund_at_night.jpg/142px-Bund_at_night.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Shanghai_Museum_Night.jpg/142px-Shanghai_Museum_Night.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Expo_2010_2.jpg/150px-Expo_2010_2.jpg ; 
+Cidades geminadas: Rosário ; Salzburgo ; Manaus ; São Paulo ; Phnom Penh ; Montréal ; Valparaíso ; Bogotá ; Zagreb ; Ballerup ; Espoo ; Marselha ; Hamburgo ; Budapeste ; Tabriz ; Milão ; Osaka ; Yokohama ; Pusan ; Casablanca ; Maputo ; Roterdão ; Dunedin ; Oslo ; Carachi ; Gdańsk ; Porto ; Constança ; Barcelona ; Gutemburgo ; Basileia ; Banguecoque ; Istambul ; Dubai ; Londres ; Liverpool ; São Francisco ; Tashkent ; Port Vila ; Caracas ; Libertador ; 
+Introduza no formato: cidade, pais
+Pequim, China
+Link wikipedia: https://pt.wikipedia.org/wiki/Pequim
+Link dbcity: https://pt.db-city.com/China--Pequim--Pequim
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/44.png
+Bandeira cidade: null
+Presidente: Wang Anshun
+Clima: Clima continental húmido (Classificação climática de Köppen-Geiger: Dwa)
+Fuso: UTC +8:00 (Asia/Shanghai)
+Website: http://www.ebeijing.gov.cn
+Area: 16801.25
+Densidade: 1167.3
+Latitude: 39.9035
+Longitude: 116.388
+nHabitantes: 19612368
+codigoPostal: null
+Linguagens oficiais: Língua chinesa ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29.jpg/288px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tiananmen_Gate.jpg/189px-Tiananmen_Gate.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Great_Wall_of_China_-_Badaling.jpg/95px-The_Great_Wall_of_China_-_Badaling.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Beijing_national_stadium.jpg/189px-Beijing_national_stadium.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Temple_of_heaven%2CBeijing%2CChina_-_panoramio_%282%29_%28cropped%29.jpg/95px-Temple_of_heaven%2CBeijing%2CChina_-_panoramio_%282%29_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/National_Centre_for_the_Performing_Arts_and_Great_Hall_of_the_People.jpg/288px-National_Centre_for_the_Performing_Arts_and_Great_Hall_of_the_People.jpg ; 
+Cidades geminadas: Tirana ; Canberra ; São Paulo ; Brasília ; Rio de Janeiro ; Phnom Penh ; Ottawa ; Medellín ; Copenhaga ; Colônia ; Berlim ; Budapeste ; Jacarta ; Téhéran ; Roma ; Vienciana ; Ulan Bator ; Amsterdão ; Wellington ; Islamabad ; Lima ; Manila ; Doha ; Bucareste ; Madrid ; Banguecoque ; Ancara ; Londres ; Nova Iorque ; Washington ; Adis Abeba ; 
+Introduza no formato: cidade, pais
+Paris, Fran a
+Link wikipedia: https://pt.wikipedia.org/wiki/Paris
+Link dbcity: https://pt.db-city.com/França--Ilha-de-França--Paris
+Capital: true
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/70.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Paris_with_coat_of_arms.svg/100px-Flag_of_Paris_with_coat_of_arms.svg.png
+Presidente: Senhora Anne HIDALGO
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Paris)
+Website: https://www.paris.fr
+Area: 105.40
+Densidade: 20544.8
+Latitude: 48.8032
+Longitude: 2.3511
+nHabitantes: 2165423
+codigoPostal: 75000
+Linguagens oficiais: Francesa ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Paris_vue_d%27ensemble_tour_Eiffel.jpg/288px-Paris_vue_d%27ensemble_tour_Eiffel.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/94px-Notre-Dame_de_Paris_2013-07-24.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/190px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arcdetriomphe_2.jpg/185px-Arcdetriomphe_2.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre%2C_Paris_18e_140223_2.jpg/99px-Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre%2C_Paris_18e_140223_2.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/288px-Louvre_Museum_Wikimedia_Commons.jpg ; 
+Cidades geminadas: Tirana ; Sidnei ; São Paulo ; Rio de Janeiro ; Goiânia ; Porto Alegre ; Québec ; Santiago ; Medellín ; Copenhaga ; Berlim ; Roma ; Mexico ; Amsterdão ; Madrid ; Genébra ; Libertador ; Caracas ; 
+Introduza no formato: cidade, pais
+Lyon, Fran a
+Link wikipedia: https://pt.wikipedia.org/wiki/Lyon
+Link dbcity: https://pt.db-city.com/França--Auvérnia-Ródano-Alpes--Ródano--Lyon
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/70.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Lyon.png/100px-Flag_of_Lyon.png
+Presidente: Senhor Grégory DOUCET
+Clima: Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)
+Fuso: UTC +1:00 (Europe/Paris)
+Website: https://www.lyon.fr
+Area: 47.87
+Densidade: 10924.8
+Latitude: 45.7589
+Longitude: 4.84139
+nHabitantes: 522969
+codigoPostal: 69000
+Linguagens oficiais: Francesa ; 
+Link img Monumentos: https://upload.wikimedia.org/wikipedia/commons/b/b8/Lyon-Paysages.jpg ; 
+Cidades geminadas: Goiânia ; Curitiba ; Uagadugu ; Montréal ; Pereira ; Neiva ; Bogotá ; Leipzig ; Frankfurt am Main ; Pécs ; Milão ; Yokohama ; Łódź ; Gutemburgo ; Birmingham ; Adis Abeba ; 
+Introduza no formato: cidade, pais
+Rio de Janeiro, Brasil
+Link wikipedia: https://pt.wikipedia.org/wiki/Rio_de_Janeiro
+Link dbcity: https://pt.db-city.com/Brasil--Rio-de-Janeiro--Rio-de-Janeiro
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/30.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/125px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png
+Presidente: Eduardo Paes
+Clima: Clima tropical com estação seca (Classificação climática de Köppen-Geiger: Aw)
+Fuso: UTC -3:00 (America/Sao_Paulo)
+Website: http://prefeitura.rio
+Area: 1200.28
+Densidade: 5597.8
+Latitude: -22.9035
+Longitude: -43.2096
+nHabitantes: 6718903
+codigoPostal: 20211
+Linguagens oficiais: Português ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/268px-Cidade_Maravilhosa.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Barra_Panorama.jpg/136px-Barra_Panorama.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Museu_do_Amanh%C3%A3_2016.jpg/128px-Museu_do_Amanh%C3%A3_2016.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aerea2_maracana.jpg/157px-Aerea2_maracana.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rio_de_Janeiro_Ponte_Niteroi_Aerea_102_Feb_2006.jpg/107px-Rio_de_Janeiro_Ponte_Niteroi_Aerea_102_Feb_2006.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Centro_do_Rio_visto_do_museu_ch%C3%A1cara_do_c%C3%A9u.jpg/268px-Centro_do_Rio_visto_do_museu_ch%C3%A1cara_do_c%C3%A9u.jpg ; 
+Cidades geminadas: Buenos Aires ; Sidnei ; La Paz ; São Borja ; Santos ; Teresópolis ; Niterói ; Cabo Frio ; Montréal ; Saskatoon ; Montréal ; Vancouver ; Praia ; Puerto Varas ; Pequim ; Valledupar ; Bogotá ; Medellín ; Havana ; Paris ; Niça ; Montpellier ; Colônia ; Osaka ; Kobe ; Pusan ; Seul ; Beirute ; Mexico ; Lagos ; Laore ; Ramallah ; Cusco ; Warszawa ; Arganil ; Guimarães ; Lisboa ; Bucareste ; São Petersburgo ; Gidá ; Rufisque ; Durban ; Cidade do Cabo ; Madrid ; Santa Cruz de Tenerife ; Barcelona ; Tunes ; Istambul ; Kiev ; Liverpool ; Atlanta ; Newark ; Oklahoma City ; Miami ; Los Angeles ; Samarcande ; Libertador ; Caracas ; 
+Introduza no formato: cidade, pais
+Fortaleza, Brasil
+Link wikipedia: https://pt.wikipedia.org/wiki/Fortaleza
+Link dbcity: https://pt.db-city.com/Brasil--Ceará--Fortaleza
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/30.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Fortaleza.svg/125px-Bandeira_de_Fortaleza.svg.png
+Presidente: ROBERTO CLAUDIO RODRIGUES BEZERRA
+Clima: Clima tropical com estação seca (Classificação climática de Köppen-Geiger: As)
+Fuso: UTC -3:00 (America/Fortaleza)
+Website: https://www.fortaleza.ce.gov.br
+Area: 314.93
+Densidade: 8476.0
+Latitude: -3.71839
+Longitude: -38.5434
+nHabitantes: 2669342
+codigoPostal: 60001
+Linguagens oficiais: Português ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fortaleza%2C_Brazil_%284%29_%28cropped%29.jpg/268px-Fortaleza%2C_Brazil_%284%29_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Centro_Drag%C3%A3o_do_Mar_%282%29.jpg/124px-Centro_Drag%C3%A3o_do_Mar_%282%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Entrada_do_Teatro.jpg/140px-Entrada_do_Teatro.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ponte_dos_Ingleses_-_Ponte_Met%C3%A1lica.png/175px-Ponte_dos_Ingleses_-_Ponte_Met%C3%A1lica.png ; //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Igreja_Matriz_-_Fortaleza-CE_%288433951864%29.jpg/89px-Igreja_Matriz_-_Fortaleza-CE_%288433951864%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fortaleza_aerea_arenacastelao.jpg/127px-Fortaleza_aerea_arenacastelao.jpg ; 
+Cidades geminadas: Natal ; São Filipe ; Sal ; Praia ; Montese ; São Luís ; Racine ; Miami Beach ; Libertador ; Caracas ; 
+Introduza no formato: cidade, pais
+Manaus, Brasil
+Link wikipedia: https://pt.wikipedia.org/wiki/Manaus
+Link dbcity: https://pt.db-city.com/Brasil--Amazonas--Manaus
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/30.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Manaus.svg/125px-Bandeira_de_Manaus.svg.png
+Presidente: ARTHUR VIRGILIO DO CARMO RIBEIRO NETO
+Clima: Clima equatorial (Classificação climática de Köppen-Geiger: Af)
+Fuso: UTC -4:00 (America/Manaus)
+Website: http://www.manaus.am.gov.br
+Area: 11401.08
+Densidade: 191.5
+Latitude: -3.10719
+Longitude: -60.0261
+nHabitantes: 2182763
+codigoPostal: 69001
+Linguagens oficiais: Português ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Skyline-de-Manaus.jpg/268px-Skyline-de-Manaus.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ponte-Rio-Negro-Manaus2.jpg/87px-Ponte-Rio-Negro-Manaus2.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Amazon_Theatre_in_Brazil.jpg/177px-Amazon_Theatre_in_Brazil.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bairro_Adrian%C3%B3polis%2C_Manaus%2C_Amazonas.jpg/183px-Bairro_Adrian%C3%B3polis%2C_Manaus%2C_Amazonas.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rel%C3%B3gio_Municipal_de_Manaus_%28cropped%29.jpg/81px-Rel%C3%B3gio_Municipal_de_Manaus_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ponta-Negra-Manaus3.jpg/132px-Ponta-Negra-Manaus3.jpg ; 
+Cidades geminadas: Goiânia ; Belém ; Xangai ; Santo Domingo ; Perúgia ; Iquitos ; Moyobamba ; Salt Lake City ; Mesa ; Charlotte ; 
+Introduza no formato: cidade, pais
+Nova Iorque, Estados Unidos
+Link wikipedia: https://pt.wikipedia.org/wiki/Nova_Iorque
+Link dbcity: https://pt.db-city.com/Estados-Unidos--Nova-Iorque--Manhattan--Nova-Iorque
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/222.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/100px-Flag_of_New_York_City.svg.png
+Presidente: Michael R. Bloomberg
+Clima: Clima subtropical úmido (Classificação climática de Köppen-Geiger: Cfa)
+Fuso: UTC -5:00 (America/New_York)
+Website: http://www.ci.nyc.ny.us
+Area: 1213.37
+Densidade: 6737.5
+Latitude: 40.6643
+Longitude: -73.9385
+nHabitantes: 8175133
+codigoPostal: 10007
+Linguagens oficiais: Inglês ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NYC_Downtown_Manhattan_Skyline_seen_from_Paulus_Hook_2019-12-20_IMG_7347_FRD_%28cropped%29.jpg/280px-NYC_Downtown_Manhattan_Skyline_seen_from_Paulus_Hook_2019-12-20_IMG_7347_FRD_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/6/61/20170721_Gotham_Shield_NYC_Aerials-225_medium.jpg/140px-20170721_Gotham_Shield_NYC_Aerials-225_medium.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/139px-New_york_times_square-terabass.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ESB.jpg/93px-ESB.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_United_Nations_Secretariat_Building.jpg/93px-The_United_Nations_Secretariat_Building.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Unisphere.JPG/92px-The_Unisphere.JPG ; 
+Cidades geminadas: Bacu ; Valparaíso ; Santiago ; Pequim ; Medellín ; Santo Domingo ; Cairo ; Budapeste ; Roma ; Tóquio ; San Nicolás de Los Garza ; Oslo ; Gdynia ; Drobeta-Turnu Severin ; Joanesburgo ; Madrid ; Londres ; 
+Introduza no formato: cidade, pais
+Detroit, Estados Unidos
+Link wikipedia: https://pt.wikipedia.org/wiki/Detroit
+Link dbcity: https://pt.db-city.com/Estados-Unidos--Michigan--Wayne--Detroit
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/222.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Detroit.svg/100px-Flag_of_Detroit.svg.png
+Presidente: David Bing
+Clima: Clima continental húmido (Classificação climática de Köppen-Geiger: Dfb)
+Fuso: UTC -5:00 (America/Detroit)
+Website: http://www.ci.detroit.mi.us
+Area: 370.03
+Densidade: 1929.0
+Latitude: 42.383
+Longitude: -83.1022
+nHabitantes: 713777
+codigoPostal: 48226
+Linguagens oficiais: Inglês ; 
+Link img Monumentos: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Detroit_Montage.jpg/1200px-Detroit_Montage.jpg ; 
+Cidades geminadas: Lakeshore ; Nassau ; Minsk ; Chongqing ; Turim ; Nápoles ; Dubai ; 
+Introduza no formato: cidade, pais
+Los Angeles, Estados Unidos
+Link wikipedia: https://pt.wikipedia.org/wiki/Los_Angeles
+Link dbcity: https://pt.db-city.com/Estados-Unidos--Califórnia--Los-Angeles--Los-Angeles
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/222.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Los_Angeles%2C_California.svg/100px-Flag_of_Los_Angeles%2C_California.svg.png
+Presidente: Eric Garcetti
+Clima: Clima mediterrânico (Classificação climática de Köppen-Geiger: Csb)
+Fuso: UTC -8:00 (America/Los_Angeles)
+Website: http://www.lacity.org
+Area: 1213.80
+Densidade: 3124.6
+Latitude: 34.0194
+Longitude: -118.411
+nHabitantes: 3792621
+codigoPostal: 90012
+Linguagens oficiais: Inglês ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/288px-Los_Angeles_with_Mount_Baldy.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Walk_of_Fame_%2825886355152%29.jpg/94px-Walk_of_Fame_%2825886355152%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TCL_Chinese_Theatre.jpg/93px-TCL_Chinese_Theatre.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Griffith_Observatory_%282106573924%29.jpg/93px-Griffith_Observatory_%282106573924%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hollywood_Sign_%28cropped%29.jpg/288px-Hollywood_Sign_%28cropped%29.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Echo_Park_Lake.jpg/142px-Echo_Park_Lake.jpg ; 
+Cidades geminadas: Erevan ; Melbourne ; Salvador ; Salvador ; Rio de Janeiro ; Vancouver ; Cantão ; Taipé ; Neiva ; Split ; Gizé ; San Salvador ; Bordéus ; Berlim ; Berlim ; Atenas ; Bombaim ; Jacarta ; Téhéran ; Ísquia ; Nagoia ; Pusan ; Kaunas ; Mexico ; Tepic ; San Nicolás de Los Garza ; León de Los Aldama ; Mexico ; Amsterdão ; Auckland ; Makati ; São Petersburgo ; Lusaka ; 
+Introduza no formato: cidade, pais
+Chicago, Estados Unidos
+Link wikipedia: https://pt.wikipedia.org/wiki/Chicago
+Link dbcity: https://pt.db-city.com/Estados-Unidos--Illinois--Cook--Chicago
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/222.png
+Bandeira cidade: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Chicago%2C_Illinois.svg/100px-Flag_of_Chicago%2C_Illinois.svg.png
+Presidente: Rahm Emanuel
+Clima: Clima continental húmido (Classificação climática de Köppen-Geiger: Dfa)
+Fuso: UTC -6:00 (America/Chicago)
+Website: http://www.cityofchicago.org
+Area: 606.58
+Densidade: 4774.3
+Latitude: 41.8379
+Longitude: -87.6828
+nHabitantes: 2896016
+codigoPostal: 60602
+Linguagens oficiais: Inglês ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_Panorama3-reduced.jpg/268px-Chicago_Panorama3-reduced.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Skyline_view_of_Chicago%2C_Illinois%2C_dominated_by_Willis_Tower%2C_long_known_as_Sears_Tower_LCCN2011636232.tif/lossy-page1-167px-Skyline_view_of_Chicago%2C_Illinois%2C_dominated_by_Willis_Tower%2C_long_known_as_Sears_Tower_LCCN2011636232.tif.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chicago_Theatre_-_panoramio.jpg/97px-Chicago_Theatre_-_panoramio.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Navy_pier.jpg/88px-Navy_pier.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chicago%2C_June_2015_-_027.jpg/88px-Chicago%2C_June_2015_-_027.jpg ; //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grant_Park_Flowers_%26_Sears_%28Willis%29_Tower%2C_Chicago%2C_Illinois%2C_U.S.A.jpg/84px-Grant_Park_Flowers_%26_Sears_%28Willis%29_Tower%2C_Chicago%2C_Illinois%2C_U.S.A.jpg ; 
+Cidades geminadas: Melbourne ; São Paulo ; Toronto ; Bogotá ; Medellín ; Hamburgo ; Acra ; Nova Deli ; Milão ; San Benedetto del Tronto ; Osaka ; Pusan ; Salvatierra ; Durango ; Monterrey ; Carachi ; Laore ; Warszawa ; Durban ; Gutemburgo ; Lucerna ; Birmingham ; 
+Introduza no formato: cidade, pais
+Yenne, Senegal
+Link wikipedia: https://pt.wikipedia.org/wiki/Yenne
+Link dbcity: https://pt.db-city.com/Senegal--Dakar--Rufisque--Yenne
+Capital: false
+Bandeira pais: https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/184.png
+Bandeira cidade: null
+Presidente: null
+Clima: Clima semiárido (Classificação climática de Köppen-Geiger: BSh)
+Fuso: UTC +0:00 (Africa/Dakar)
+Website: null
+Area: null
+Densidade: null
+Latitude: 14.651
+Longitude: -17.1839
+nHabitantes: 37202
+codigoPostal: null
+Linguagens oficiais: Francesa ; 
+Link img Monumentos: //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yenne_depuis_Vierge.jpg/275px-Yenne_depuis_Vierge.jpg ; 
+Cidades geminadas: 
