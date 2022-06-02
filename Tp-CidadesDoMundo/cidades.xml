@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo SYSTEM "cidades.dtd">
+<catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cidades.xsd">
+     <cidade>
+          <nome>Barcelona</nome>
+          <pais>Espanha</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/100px-Flag_of_Barcelona.svg.png</bandeiracidade>
+          <capital>false</capital>
+          <presidente>Ada COLAU BALLANO</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
+          <fuso>UTC +1:00 (Europe/Madrid)</fuso>
+          <website>https://www.barcelona.cat</website>
+          <area uni="km2">98.21</area>
+          <densidade uni="hab_km2">16665.9</densidade>
+          <linguagens>
+               <lingua>Espanhol</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Barcelona%2C_airport_approach_%2827733825928%29.jpg/288px-Barcelona%2C_airport_approach_%2827733825928%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/18/View_of_Nativity_Fa%C3%A7ade_of_Basilica_and_Expiatory_Church_of_the_Holy_Family_%28Bas%C3%ADlica_i_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia%29_%28_UNESCO_World_Heritage_Site%29._Barcelona%2C_Catalonia%2C_Spain.jpg/88px-thumbnail.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Barcelona_-_panoramio_%28715%29.jpg/196px-Barcelona_-_panoramio_%28715%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barcelona_-_Arc_de_Triomf_%282%29.JPG/162px-Barcelona_-_Arc_de_Triomf_%282%29.JPG</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg/122px-Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Las_Ramblas%2C_Barcelona.jpg/199px-Las_Ramblas%2C_Barcelona.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Tirana</cidadegeminada>
+               <cidadegeminada>Rosário</cidadegeminada>
+               <cidadegeminada>Antuérpia</cidadegeminada>
+               <cidadegeminada>Sarajevo</cidadegeminada>
+               <cidadegeminada>Rio de Janeiro</cidadegeminada>
+               <cidadegeminada>São Paulo</cidadegeminada>
+               <cidadegeminada>Варна</cidadegeminada>
+               <cidadegeminada>Montréal</cidadegeminada>
+               <cidadegeminada>Valparaíso</cidadegeminada>
+               <cidadegeminada>Xangai</cidadegeminada>
+               <cidadegeminada>Medellín</cidadegeminada>
+               <cidadegeminada>Pereira</cidadegeminada>
+               <cidadegeminada>Manizales</cidadegeminada>
+               <cidadegeminada>Havana</cidadegeminada>
+               <cidadegeminada>Perpinhã</cidadegeminada>
+               <cidadegeminada>Montpellier</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Dublin</cidadegeminada>
+               <cidadegeminada>Tel Aviv</cidadegeminada>
+               <cidadegeminada>Sassari</cidadegeminada>
+               <cidadegeminada>Kobe</cidadegeminada>
+               <cidadegeminada>Pusan</cidadegeminada>
+               <cidadegeminada>Monterrey</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Gaza</cidadegeminada>
+               <cidadegeminada>Gdańsk</cidadegeminada>
+               <cidadegeminada>São Petersburgo</cidadegeminada>
+               <cidadegeminada>Monzón</cidadegeminada>
+               <cidadegeminada>Tunes</cidadegeminada>
+               <cidadegeminada>Istambul</cidadegeminada>
+               <cidadegeminada>Dubai</cidadegeminada>
+               <cidadegeminada>Boston</cidadegeminada>
+               <cidadegeminada>São Francisco</cidadegeminada>
+               <cidadegeminada>Montevidéu</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>41.3879</latitude>
+          <longitude>2.16992</longitude>
+          <altitude>34</altitude>
+          <nhabitantes>1636762</nhabitantes>
+          <codigopostal>8071</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Madrid</nome>
+          <pais>Espanha</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bandera_de_la_ciudad_de_Madrid.svg/100px-Bandera_de_la_ciudad_de_Madrid.svg.png</bandeiracidade>
+          <capital>true</capital>
+          <presidente>José Luis Martínez-Almeida Navasqües</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
+          <fuso>UTC +1:00 (Europe/Madrid)</fuso>
+          <website>https://www.madrid.es</website>
+          <area uni="km2">605.77</area>
+          <densidade uni="hab_km2">5391.7</densidade>
+          <linguagens>
+               <lingua>Espanhol</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Panorama_de_Madrid_desde_el_parque_de_San_Isidro.JPG/296px-Panorama_de_Madrid_desde_el_parque_de_San_Isidro.JPG</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg/148px-Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Plaza_Mayor_de_Madrid_06.jpg/144px-Plaza_Mayor_de_Madrid_06.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/d/da/MADRID_060518_MXALX_087.jpg/146px-MADRID_060518_MXALX_087.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Palacio_de_Comunicaciones_-_46.jpg/146px-Palacio_de_Comunicaciones_-_46.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CTBA_%28Madrid%29_39.jpg/199px-CTBA_%28Madrid%29_39.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Tirana</cidadegeminada>
+               <cidadegeminada>Buenos Aires</cidadegeminada>
+               <cidadegeminada>Bruxelas</cidadegeminada>
+               <cidadegeminada>La Paz</cidadegeminada>
+               <cidadegeminada>Sarajevo</cidadegeminada>
+               <cidadegeminada>Rio de Janeiro</cidadegeminada>
+               <cidadegeminada>Santiago</cidadegeminada>
+               <cidadegeminada>Pequim</cidadegeminada>
+               <cidadegeminada>Bogotá</cidadegeminada>
+               <cidadegeminada>San José</cidadegeminada>
+               <cidadegeminada>Havana</cidadegeminada>
+               <cidadegeminada>Santo Domingo</cidadegeminada>
+               <cidadegeminada>Quito</cidadegeminada>
+               <cidadegeminada>Cairo</cidadegeminada>
+               <cidadegeminada>San Salvador</cidadegeminada>
+               <cidadegeminada>Cannes</cidadegeminada>
+               <cidadegeminada>Bordéus</cidadegeminada>
+               <cidadegeminada>Paris</cidadegeminada>
+               <cidadegeminada>Berlim</cidadegeminada>
+               <cidadegeminada>Berlim</cidadegeminada>
+               <cidadegeminada>Guatemala</cidadegeminada>
+               <cidadegeminada>Tegucigalpa</cidadegeminada>
+               <cidadegeminada>Roma</cidadegeminada>
+               <cidadegeminada>Trípoli</cidadegeminada>
+               <cidadegeminada>Nouakchott</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Rabat</cidadegeminada>
+               <cidadegeminada>Manágua</cidadegeminada>
+               <cidadegeminada>Panama</cidadegeminada>
+               <cidadegeminada>Assunção</cidadegeminada>
+               <cidadegeminada>Lima</cidadegeminada>
+               <cidadegeminada>Huacho</cidadegeminada>
+               <cidadegeminada>Warszawa</cidadegeminada>
+               <cidadegeminada>Lisboa</cidadegeminada>
+               <cidadegeminada>Drobeta-Turnu Severin</cidadegeminada>
+               <cidadegeminada>Moscovo</cidadegeminada>
+               <cidadegeminada>Móstoles</cidadegeminada>
+               <cidadegeminada>Abu Dhabi</cidadegeminada>
+               <cidadegeminada>San Juan</cidadegeminada>
+               <cidadegeminada>Miami</cidadegeminada>
+               <cidadegeminada>Nova Iorque</cidadegeminada>
+               <cidadegeminada>Montevidéu</cidadegeminada>
+               <cidadegeminada>Caracas</cidadegeminada>
+               <cidadegeminada>Libertador</cidadegeminada>
+               <cidadegeminada>Belgrado</cidadegeminada>
+               <cidadegeminada>Malabo</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>40.4167</latitude>
+          <longitude>-3.70325</longitude>
+          <altitude>659</altitude>
+          <nhabitantes>3266126</nhabitantes>
+          <codigopostal>28005</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Sevilha</nome>
+          <pais>Espanha</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Sevilla%2C_Spain.svg/100px-Flag_of_Sevilla%2C_Spain.svg.png</bandeiracidade>
+          <capital>false</capital>
+          <presidente>Juan ESPADAS CEJAS</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
+          <fuso>UTC +1:00 (Europe/Madrid)</fuso>
+          <website>https://www.sevilla.org</website>
+          <area uni="km2">141.31</area>
+          <densidade uni="hab_km2">4872.9</densidade>
+          <linguagens>
+               <lingua>Espanhol</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Collage_de_la_ciudad_de_Sevilla%2C_capital_de_Andaluc%C3%ADa%2C_Espa%C3%B1a.png/290px-Collage_de_la_ciudad_de_Sevilla%2C_capital_de_Andaluc%C3%ADa%2C_Espa%C3%B1a.png</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Buenos Aires</cidadegeminada>
+               <cidadegeminada>Barcelona</cidadegeminada>
+               <cidadegeminada>Cartagena das Índias</cidadegeminada>
+               <cidadegeminada>Havana</cidadegeminada>
+               <cidadegeminada>San Salvador</cidadegeminada>
+               <cidadegeminada>Angers</cidadegeminada>
+               <cidadegeminada>Düsseldorf</cidadegeminada>
+               <cidadegeminada>Campeche</cidadegeminada>
+               <cidadegeminada>Guadalajara</cidadegeminada>
+               <cidadegeminada>Marraquexe</cidadegeminada>
+               <cidadegeminada>Kraków</cidadegeminada>
+               <cidadegeminada>Drobeta-Turnu Severin</cidadegeminada>
+               <cidadegeminada>Laredo</cidadegeminada>
+               <cidadegeminada>Córdova</cidadegeminada>
+               <cidadegeminada>Sevilla la Nueva</cidadegeminada>
+               <cidadegeminada>Medina de Rioseco</cidadegeminada>
+               <cidadegeminada>Kansas City</cidadegeminada>
+               <cidadegeminada>Columbus</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>37.3826</latitude>
+          <longitude>-5.99629</longitude>
+          <altitude>2</altitude>
+          <nhabitantes>688592</nhabitantes>
+          <codigopostal>41071</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Yenne</nome>
+          <pais>Senegal</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/184.png</bandeirapais>
+          <capital>false</capital>
+          <clima>Clima semiárido (Classificação climática de Köppen-Geiger: BSh)</clima>
+          <fuso>UTC +0:00 (Africa/Dakar)</fuso>
+          <linguagens>
+               <lingua>Francesa</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yenne_depuis_Vierge.jpg/275px-Yenne_depuis_Vierge.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas />
+          <latitude>14.651</latitude>
+          <longitude>-17.1839</longitude>
+          <altitude>6</altitude>
+          <nhabitantes>37202</nhabitantes>
+     </cidade>
+</catalogo>

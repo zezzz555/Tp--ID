@@ -1,0 +1,31 @@
+<!-- DTD created at Thu Jun 02 19:36:18 BST 2022 with EditiX XML Editor (http://www.editix.com). Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT  nome (#PCDATA)>
+<!ELEMENT  pais (#PCDATA)>
+<!ELEMENT  bandeirapais (#PCDATA)>
+<!ELEMENT  bandeiracidade (#PCDATA)>
+<!ELEMENT  capital (#PCDATA)>
+<!ELEMENT  presidente (#PCDATA)>
+<!ELEMENT  clima (#PCDATA)>
+<!ELEMENT  fuso (#PCDATA)>
+<!ELEMENT  website (#PCDATA)>
+<!ELEMENT  area (#PCDATA)>
+<!ELEMENT  densidade (#PCDATA)>
+<!ELEMENT  lingua (#PCDATA)>
+<!ELEMENT  monumento (#PCDATA)>
+<!ELEMENT  cidadegeminada (#PCDATA)>
+<!ELEMENT  linguagens (lingua*)>
+<!ELEMENT  monumentos (monumento*)>
+<!ELEMENT  cidadesgeminadas (cidadegeminada*)>
+<!ELEMENT  latitude (#PCDATA)>
+<!ELEMENT  longitude (#PCDATA)>
+<!ELEMENT  altitude (#PCDATA)>
+<!ELEMENT  nhabitantes (#PCDATA)>
+<!ELEMENT  codigopostal (#PCDATA)>
+<!ELEMENT  cidade (nome,pais,bandeirapais? ,bandeiracidade? ,capital, presidente? ,clima? ,fuso? ,website? ,area? ,densidade? ,linguagens* ,monumentos* ,cidadesgeminadas* ,latitude? ,longitude? ,altitude? ,nhabitantes? ,codigopostal?)>
+<!ELEMENT  catalogo (cidade)+>
+<!ATTLIST area  uni CDATA #REQUIRED>
+<!ATTLIST densidade  uni CDATA #REQUIRED>
+<!ATTLIST catalogo xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST catalogo xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+

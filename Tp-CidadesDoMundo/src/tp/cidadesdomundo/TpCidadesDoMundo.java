@@ -4,6 +4,7 @@ package tp.cidadesdomundo;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import org.jdom2.Document;
 
 /**
  *
@@ -13,6 +14,7 @@ public class TpCidadesDoMundo {
 
 
     public static void main(String[] args) throws IOException {
+        new Interface().setVisible(true);
         //------WRAPPERS------
         /*
         Scanner myObj = new Scanner(System.in);
@@ -77,8 +79,8 @@ public class TpCidadesDoMundo {
             System.out.println("");        
         }while(true);
         */
-        //new Interface().setVisible(true);
- 
+
+        /*
         //------OBJETO------    
         Cidades x=Cidades.criaCidade("Lisboa","Portugal");
         System.out.println("Cidade: "+x.getCidade());
@@ -100,7 +102,20 @@ public class TpCidadesDoMundo {
         System.out.println("Linguagens oficiais: "+x.getLinguagens());
         System.out.println("Lista de img de Monumentos: "+x.getMonumentos()); 
         System.out.println("Cidades geminadas: "+x.getCidadesGeminadas()); 
+        */
+        //------XML-------
+        //Inicializa Doc XML
+        //Document doc = XMLJDomFunctions.lerDocumentoXML("cidades.xml");
+        //Chama a função para adicionar o cidade ao XML
+        //doc = ModeloXML.adicionaCidade(x, doc);
+        //doc = ModeloXML.removeCidade("Porto", doc);
+        //doc = ModeloXML.alteraCidade(" "," ", doc);
+        
+        //grava o ficheiro XML em disco
 
+//        if(doc!=null){
+//            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "cidades.xml");
+//        }
     }   
    
 }

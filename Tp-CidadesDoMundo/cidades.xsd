@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Thu Jun 02 20:13:20 BST 2022 -->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:attribute name="uni" type="xsd:string"/>
+	
+<xsd:element name="nome" type="xsd:string"/>
+	<xsd:element name="pais" type="xsd:string"/>
+	<xsd:element name="bandeirapais" type="xsd:string"/>
+	<xsd:element name="bandeiracidade" type="xsd:string"/>
+	<xsd:element name="capital" type="xsd:string"/>
+	<xsd:element name="presidente" type="xsd:string"/>
+	<xsd:element name="clima" type="xsd:string"/>
+	<xsd:element name="fuso" type="xsd:string"/>
+	<xsd:element name="website" type="xsd:string"/>
+	<xsd:element name="area">
+		<xsd:complexType>
+			<xsd:simpleContent>
+				<xsd:extension base="xsd:double">
+					<xsd:attribute ref="uni" use="required"/>
+				</xsd:extension>
+			</xsd:simpleContent>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="densidade">
+		<xsd:complexType>
+			<xsd:simpleContent>
+				<xsd:extension base="xsd:double">
+					<xsd:attribute ref="uni" use="required"/>
+				</xsd:extension>
+			</xsd:simpleContent>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="lingua" type="xsd:string"/>
+	<xsd:element name="monumento" type="xsd:string"/>
+	<xsd:element name="cidadegeminada" type="xsd:string"/>
+	<xsd:element name="latitude" type="xsd:double"/>
+	<xsd:element name="longitude" type="xsd:double"/>
+	<xsd:element name="altitude" type="xsd:integer"/>
+	<xsd:element name="nhabitantes" type="xsd:integer"/>
+	<xsd:element name="codigopostal" type="xsd:integer"/>
+	<xsd:element name="linguagens">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="lingua" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="monumentos">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="monumento" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="cidadesgeminadas">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="cidadegeminada" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="cidade">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="nome" minOccurs="1" maxOccurs="1"/>
+				<xsd:element ref="pais" minOccurs="1" maxOccurs="1"/>
+				<xsd:element ref="bandeirapais" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="bandeiracidade" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="capital" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="presidente" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="clima" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="fuso" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="website" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="area" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="densidade" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="linguagens" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="monumentos" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="cidadesgeminadas" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="latitude" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="longitude" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="altitude" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="nhabitantes" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="codigopostal" minOccurs="0" maxOccurs="1"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="catalogo">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="cidade" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

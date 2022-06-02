@@ -214,7 +214,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static double obtemDensidade(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -235,7 +235,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static double obtemLatitude(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -254,7 +254,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static double obtemLongitude(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -273,7 +273,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static int obtemNHabitantes(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -293,7 +293,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static int obtemCodigoPostal(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -312,7 +312,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static int obtemAltitude(String cidade,String pais) throws IOException {
             String link = obtemLinkdbCity(cidade,pais);
@@ -331,7 +331,7 @@ public class Wrappers {
                 }
             }
             ler.close();
-            return 0;
+            return -1;
     }
     public static ArrayList obtemLinguagens(String cidade,String pais) throws IOException {
             ArrayList<String> linguagens = new ArrayList();
