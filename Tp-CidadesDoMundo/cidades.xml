@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE catalogo SYSTEM "cidades.dtd">
 <catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cidades.xsd">
      <cidade>
           <nome>Madrid</nome>
@@ -393,5 +392,92 @@
           <altitude>34</altitude>
           <nhabitantes>1636762</nhabitantes>
           <codigopostal>8071</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Porto</nome>
+          <pais>Portugal</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Porto.svg/90px-Flag_of_Porto.svg.png</bandeiracidade>
+          <capital>false</capital>
+          <presidente>Rui Moreira</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csb)</clima>
+          <fuso>UTC +0:00 (Europe/Lisbon)</fuso>
+          <website>https://www.cm-porto.pt</website>
+          <area uni="km2">41.3</area>
+          <densidade uni="hab_km2">5212.7</densidade>
+          <linguagens>
+               <lingua>Português</lingua>
+               <lingua>Mirandese</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Porto_Montage.jpg/1200px-Porto_Montage.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Luanda</cidadegeminada>
+               <cidadegeminada>Liège</cidadegeminada>
+               <cidadegeminada>Recife</cidadegeminada>
+               <cidadegeminada>Belo Horizonte</cidadegeminada>
+               <cidadegeminada>São Vicente</cidadegeminada>
+               <cidadegeminada>Xangai</cidadegeminada>
+               <cidadegeminada>Macao</cidadegeminada>
+               <cidadegeminada>Bordéus</cidadegeminada>
+               <cidadegeminada>Jena</cidadegeminada>
+               <cidadegeminada>Jena</cidadegeminada>
+               <cidadegeminada>Duruelo de la Sierra</cidadegeminada>
+               <cidadegeminada>Leão</cidadegeminada>
+               <cidadegeminada>Vigo</cidadegeminada>
+               <cidadegeminada>Akhisar</cidadegeminada>
+               <cidadegeminada>Bristol</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>41.15</latitude>
+          <longitude>-8.61024</longitude>
+          <altitude>83</altitude>
+          <nhabitantes>215284</nhabitantes>
+          <codigopostal>4049</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Oslo</nome>
+          <pais>Noruega</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/158.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Oslo.svg/100px-Flag_of_Oslo.svg.png</bandeiracidade>
+          <capital>true</capital>
+          <presidente>Fabian Stang</presidente>
+          <clima>Clima continental húmido (Classificação climática de Köppen-Geiger: Dfb)</clima>
+          <fuso>UTC +1:00 (Europe/Oslo)</fuso>
+          <website>http://www.oslo.kommune.no</website>
+          <area uni="km2">453.99</area>
+          <densidade uni="hab_km2">1234.6</densidade>
+          <linguagens>
+               <lingua>Norueguês bokmål</lingua>
+               <lingua>Novo norueguês</lingua>
+               <lingua>Norueguês</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>https://upload.wikimedia.org/wikipedia/commons/5/5b/Oslo_newer_montage_2013.png</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Antuérpia</cidadegeminada>
+               <cidadegeminada>Xangai</cidadegeminada>
+               <cidadegeminada>Copenhaga</cidadegeminada>
+               <cidadegeminada>Helsínquia</cidadegeminada>
+               <cidadegeminada>Schleswig</cidadegeminada>
+               <cidadegeminada>Reykjavík</cidadegeminada>
+               <cidadegeminada>Tel Aviv</cidadegeminada>
+               <cidadegeminada>Vilnius</cidadegeminada>
+               <cidadegeminada>Roterdão</cidadegeminada>
+               <cidadegeminada>Warszawa</cidadegeminada>
+               <cidadegeminada>São Petersburgo</cidadegeminada>
+               <cidadegeminada>Gutemburgo</cidadegeminada>
+               <cidadegeminada>Estocolmo</cidadegeminada>
+               <cidadegeminada>Londres</cidadegeminada>
+               <cidadegeminada>Madison</cidadegeminada>
+               <cidadegeminada>Washington</cidadegeminada>
+               <cidadegeminada>Nova Iorque</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>59.9138</latitude>
+          <longitude>10.7387</longitude>
+          <altitude>23</altitude>
+          <nhabitantes>560484</nhabitantes>
+          <codigopostal>37</codigopostal>
      </cidade>
 </catalogo>
