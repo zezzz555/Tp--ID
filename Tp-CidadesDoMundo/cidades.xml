@@ -2,72 +2,6 @@
 <!DOCTYPE catalogo SYSTEM "cidades.dtd">
 <catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cidades.xsd">
      <cidade>
-          <nome>Barcelona</nome>
-          <pais>Espanha</pais>
-          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
-          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/100px-Flag_of_Barcelona.svg.png</bandeiracidade>
-          <capital>false</capital>
-          <presidente>Ada COLAU BALLANO</presidente>
-          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
-          <fuso>UTC +1:00 (Europe/Madrid)</fuso>
-          <website>https://www.barcelona.cat</website>
-          <area uni="km2">98.21</area>
-          <densidade uni="hab_km2">16665.9</densidade>
-          <linguagens>
-               <lingua>Espanhol</lingua>
-          </linguagens>
-          <monumentos>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Barcelona%2C_airport_approach_%2827733825928%29.jpg/288px-Barcelona%2C_airport_approach_%2827733825928%29.jpg</monumento>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/18/View_of_Nativity_Fa%C3%A7ade_of_Basilica_and_Expiatory_Church_of_the_Holy_Family_%28Bas%C3%ADlica_i_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia%29_%28_UNESCO_World_Heritage_Site%29._Barcelona%2C_Catalonia%2C_Spain.jpg/88px-thumbnail.jpg</monumento>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Barcelona_-_panoramio_%28715%29.jpg/196px-Barcelona_-_panoramio_%28715%29.jpg</monumento>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barcelona_-_Arc_de_Triomf_%282%29.JPG/162px-Barcelona_-_Arc_de_Triomf_%282%29.JPG</monumento>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg/122px-Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg</monumento>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Las_Ramblas%2C_Barcelona.jpg/199px-Las_Ramblas%2C_Barcelona.jpg</monumento>
-          </monumentos>
-          <cidadesgeminadas>
-               <cidadegeminada>Tirana</cidadegeminada>
-               <cidadegeminada>Rosário</cidadegeminada>
-               <cidadegeminada>Antuérpia</cidadegeminada>
-               <cidadegeminada>Sarajevo</cidadegeminada>
-               <cidadegeminada>Rio de Janeiro</cidadegeminada>
-               <cidadegeminada>São Paulo</cidadegeminada>
-               <cidadegeminada>Варна</cidadegeminada>
-               <cidadegeminada>Montréal</cidadegeminada>
-               <cidadegeminada>Valparaíso</cidadegeminada>
-               <cidadegeminada>Xangai</cidadegeminada>
-               <cidadegeminada>Medellín</cidadegeminada>
-               <cidadegeminada>Pereira</cidadegeminada>
-               <cidadegeminada>Manizales</cidadegeminada>
-               <cidadegeminada>Havana</cidadegeminada>
-               <cidadegeminada>Perpinhã</cidadegeminada>
-               <cidadegeminada>Montpellier</cidadegeminada>
-               <cidadegeminada>Colônia</cidadegeminada>
-               <cidadegeminada>Colônia</cidadegeminada>
-               <cidadegeminada>Dublin</cidadegeminada>
-               <cidadegeminada>Tel Aviv</cidadegeminada>
-               <cidadegeminada>Sassari</cidadegeminada>
-               <cidadegeminada>Kobe</cidadegeminada>
-               <cidadegeminada>Pusan</cidadegeminada>
-               <cidadegeminada>Monterrey</cidadegeminada>
-               <cidadegeminada>Mexico</cidadegeminada>
-               <cidadegeminada>Gaza</cidadegeminada>
-               <cidadegeminada>Gdańsk</cidadegeminada>
-               <cidadegeminada>São Petersburgo</cidadegeminada>
-               <cidadegeminada>Monzón</cidadegeminada>
-               <cidadegeminada>Tunes</cidadegeminada>
-               <cidadegeminada>Istambul</cidadegeminada>
-               <cidadegeminada>Dubai</cidadegeminada>
-               <cidadegeminada>Boston</cidadegeminada>
-               <cidadegeminada>São Francisco</cidadegeminada>
-               <cidadegeminada>Montevidéu</cidadegeminada>
-          </cidadesgeminadas>
-          <latitude>41.3879</latitude>
-          <longitude>2.16992</longitude>
-          <altitude>34</altitude>
-          <nhabitantes>1636762</nhabitantes>
-          <codigopostal>8071</codigopostal>
-     </cidade>
-     <cidade>
           <nome>Madrid</nome>
           <pais>Espanha</pais>
           <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
@@ -146,6 +80,82 @@
           <codigopostal>28005</codigopostal>
      </cidade>
      <cidade>
+          <nome>Yenne</nome>
+          <pais>Senegal</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/184.png</bandeirapais>
+          <capital>false</capital>
+          <clima>Clima semiárido (Classificação climática de Köppen-Geiger: BSh)</clima>
+          <fuso>UTC +0:00 (Africa/Dakar)</fuso>
+          <linguagens>
+               <lingua>Francesa</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yenne_depuis_Vierge.jpg/275px-Yenne_depuis_Vierge.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas />
+          <latitude>14.651</latitude>
+          <longitude>-17.1839</longitude>
+          <altitude>6</altitude>
+          <nhabitantes>37202</nhabitantes>
+     </cidade>
+     <cidade>
+          <nome>Lisboa</nome>
+          <pais>Portugal</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandeira_municipal_de_Lisboa.png/90px-Bandeira_municipal_de_Lisboa.png</bandeiracidade>
+          <capital>true</capital>
+          <presidente>Fernando Medina</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
+          <fuso>UTC +0:00 (Europe/Lisbon)</fuso>
+          <website>https://www.lisboa.pt</website>
+          <area uni="km2">84.8</area>
+          <densidade uni="hab_km2">5981.4</densidade>
+          <linguagens>
+               <lingua>Português</lingua>
+               <lingua>Mirandese</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/280px-Lisbon_%2836831596786%29_%28cropped%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rua_Augusta_Arch_-_April_2019_%28cropped%29.jpg/139px-Rua_Augusta_Arch_-_April_2019_%28cropped%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lisboa_IMG_6805_%2820499138133%29.jpg/139px-Lisboa_IMG_6805_%2820499138133%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belem_Tower_-_April_2019_%282%29.jpg/139px-Belem_Tower_-_April_2019_%282%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Se_Cathedral_%2834242766515%29_%28cropped%29.jpg/139px-Se_Cathedral_%2834242766515%29_%28cropped%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Parque_das_Na%C3%A7%C3%B5es_Lisboa_%28cropped%29.jpg/280px-Parque_das_Na%C3%A7%C3%B5es_Lisboa_%28cropped%29.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Rio de Janeiro</cidadegeminada>
+               <cidadegeminada>Salvador</cidadegeminada>
+               <cidadegeminada>São Paulo</cidadegeminada>
+               <cidadegeminada>São Paulo</cidadegeminada>
+               <cidadegeminada>Brasília</cidadegeminada>
+               <cidadegeminada>Salvador</cidadegeminada>
+               <cidadegeminada>Praia</cidadegeminada>
+               <cidadegeminada>Macao</cidadegeminada>
+               <cidadegeminada>Pereira</cidadegeminada>
+               <cidadegeminada>Manizales</cidadegeminada>
+               <cidadegeminada>Zagreb</cidadegeminada>
+               <cidadegeminada>Cacheu</cidadegeminada>
+               <cidadegeminada>Bissau</cidadegeminada>
+               <cidadegeminada>Budapeste</cidadegeminada>
+               <cidadegeminada>Budapeste</cidadegeminada>
+               <cidadegeminada>Malaca</cidadegeminada>
+               <cidadegeminada>Rabat</cidadegeminada>
+               <cidadegeminada>Maputo</cidadegeminada>
+               <cidadegeminada>Guimarães</cidadegeminada>
+               <cidadegeminada>São Tomé</cidadegeminada>
+               <cidadegeminada>Madrid</cidadegeminada>
+               <cidadegeminada>Tunes</cidadegeminada>
+               <cidadegeminada>Jersey City</cidadegeminada>
+               <cidadegeminada>Caracas</cidadegeminada>
+               <cidadegeminada>Libertador</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>38.7071</latitude>
+          <longitude>-9.13549</longitude>
+          <altitude>4</altitude>
+          <nhabitantes>507220</nhabitantes>
+          <codigopostal>1100</codigopostal>
+     </cidade>
+     <cidade>
           <nome>Sevilha</nome>
           <pais>Espanha</pais>
           <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
@@ -190,22 +200,198 @@
           <codigopostal>41071</codigopostal>
      </cidade>
      <cidade>
-          <nome>Yenne</nome>
-          <pais>Senegal</pais>
-          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/184.png</bandeirapais>
+          <nome>Rio de Janeiro</nome>
+          <pais>Brasil</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/30.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/125px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png</bandeiracidade>
           <capital>false</capital>
-          <clima>Clima semiárido (Classificação climática de Köppen-Geiger: BSh)</clima>
-          <fuso>UTC +0:00 (Africa/Dakar)</fuso>
+          <presidente>Eduardo Paes</presidente>
+          <clima>Clima tropical com estação seca (Classificação climática de Köppen-Geiger: Aw)</clima>
+          <fuso>UTC -3:00 (America/Sao_Paulo)</fuso>
+          <website>http://prefeitura.rio</website>
+          <area uni="km2">1200.28</area>
+          <densidade uni="hab_km2">5597.8</densidade>
           <linguagens>
-               <lingua>Francesa</lingua>
+               <lingua>Português</lingua>
           </linguagens>
           <monumentos>
-               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yenne_depuis_Vierge.jpg/275px-Yenne_depuis_Vierge.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/268px-Cidade_Maravilhosa.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Barra_Panorama.jpg/136px-Barra_Panorama.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Museu_do_Amanh%C3%A3_2016.jpg/128px-Museu_do_Amanh%C3%A3_2016.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aerea2_maracana.jpg/157px-Aerea2_maracana.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rio_de_Janeiro_Ponte_Niteroi_Aerea_102_Feb_2006.jpg/107px-Rio_de_Janeiro_Ponte_Niteroi_Aerea_102_Feb_2006.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Centro_do_Rio_visto_do_museu_ch%C3%A1cara_do_c%C3%A9u.jpg/268px-Centro_do_Rio_visto_do_museu_ch%C3%A1cara_do_c%C3%A9u.jpg</monumento>
           </monumentos>
-          <cidadesgeminadas />
-          <latitude>14.651</latitude>
-          <longitude>-17.1839</longitude>
-          <altitude>6</altitude>
-          <nhabitantes>37202</nhabitantes>
+          <cidadesgeminadas>
+               <cidadegeminada>Buenos Aires</cidadegeminada>
+               <cidadegeminada>Sidnei</cidadegeminada>
+               <cidadegeminada>La Paz</cidadegeminada>
+               <cidadegeminada>São Borja</cidadegeminada>
+               <cidadegeminada>Santos</cidadegeminada>
+               <cidadegeminada>Teresópolis</cidadegeminada>
+               <cidadegeminada>Niterói</cidadegeminada>
+               <cidadegeminada>Cabo Frio</cidadegeminada>
+               <cidadegeminada>Montréal</cidadegeminada>
+               <cidadegeminada>Saskatoon</cidadegeminada>
+               <cidadegeminada>Montréal</cidadegeminada>
+               <cidadegeminada>Vancouver</cidadegeminada>
+               <cidadegeminada>Praia</cidadegeminada>
+               <cidadegeminada>Puerto Varas</cidadegeminada>
+               <cidadegeminada>Pequim</cidadegeminada>
+               <cidadegeminada>Valledupar</cidadegeminada>
+               <cidadegeminada>Bogotá</cidadegeminada>
+               <cidadegeminada>Medellín</cidadegeminada>
+               <cidadegeminada>Havana</cidadegeminada>
+               <cidadegeminada>Paris</cidadegeminada>
+               <cidadegeminada>Niça</cidadegeminada>
+               <cidadegeminada>Montpellier</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Osaka</cidadegeminada>
+               <cidadegeminada>Kobe</cidadegeminada>
+               <cidadegeminada>Pusan</cidadegeminada>
+               <cidadegeminada>Seul</cidadegeminada>
+               <cidadegeminada>Beirute</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Lagos</cidadegeminada>
+               <cidadegeminada>Laore</cidadegeminada>
+               <cidadegeminada>Ramallah</cidadegeminada>
+               <cidadegeminada>Cusco</cidadegeminada>
+               <cidadegeminada>Warszawa</cidadegeminada>
+               <cidadegeminada>Arganil</cidadegeminada>
+               <cidadegeminada>Guimarães</cidadegeminada>
+               <cidadegeminada>Lisboa</cidadegeminada>
+               <cidadegeminada>Bucareste</cidadegeminada>
+               <cidadegeminada>São Petersburgo</cidadegeminada>
+               <cidadegeminada>Gidá</cidadegeminada>
+               <cidadegeminada>Rufisque</cidadegeminada>
+               <cidadegeminada>Durban</cidadegeminada>
+               <cidadegeminada>Cidade do Cabo</cidadegeminada>
+               <cidadegeminada>Madrid</cidadegeminada>
+               <cidadegeminada>Santa Cruz de Tenerife</cidadegeminada>
+               <cidadegeminada>Barcelona</cidadegeminada>
+               <cidadegeminada>Tunes</cidadegeminada>
+               <cidadegeminada>Istambul</cidadegeminada>
+               <cidadegeminada>Kiev</cidadegeminada>
+               <cidadegeminada>Liverpool</cidadegeminada>
+               <cidadegeminada>Atlanta</cidadegeminada>
+               <cidadegeminada>Newark</cidadegeminada>
+               <cidadegeminada>Oklahoma City</cidadegeminada>
+               <cidadegeminada>Miami</cidadegeminada>
+               <cidadegeminada>Los Angeles</cidadegeminada>
+               <cidadegeminada>Samarcande</cidadegeminada>
+               <cidadegeminada>Libertador</cidadegeminada>
+               <cidadegeminada>Caracas</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>-22.9035</latitude>
+          <longitude>-43.2096</longitude>
+          <altitude>20</altitude>
+          <nhabitantes>6718903</nhabitantes>
+          <codigopostal>20211</codigopostal>
+     </cidade>
+     <cidade>
+          <nome>Liverpool</nome>
+          <pais>Reino Unido</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/221.png</bandeirapais>
+          <capital>false</capital>
+          <presidente>Joe Anderson</presidente>
+          <clima>Clima oceânico (Classificação climática de Köppen-Geiger: Cfb)</clima>
+          <fuso>UTC +0:00 (Europe/London)</fuso>
+          <website>http://www.liverpool.gov.uk</website>
+          <area uni="km2">111.84</area>
+          <densidade uni="hab_km2">3980.7</densidade>
+          <linguagens>
+               <lingua>Inglês</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Liverpool-Montage.jpg/300px-Liverpool-Montage.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_Liverpool_City_Council.png/100px-Coat_of_arms_of_Liverpool_City_Council.png</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Crystal_Clear_app_xmag.png/20px-Crystal_Clear_app_xmag.png</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/City_Sightseeing_Liverpool_bus_T2_%28S855_DGX%29%2C_13_December_2011.jpg/120px-City_Sightseeing_Liverpool_bus_T2_%28S855_DGX%29%2C_13_December_2011.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Queensway_Road_Tunnel_Entrance%2C_Liverpool_%28geograph_2974781%29.jpg/120px-Queensway_Road_Tunnel_Entrance%2C_Liverpool_%28geograph_2974781%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Liverpool_City_Region_Motorways.png/120px-Liverpool_City_Region_Motorways.png</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>La Plata</cidadegeminada>
+               <cidadegeminada>Rio de Janeiro</cidadegeminada>
+               <cidadegeminada>Xangai</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Surabaia</cidadegeminada>
+               <cidadegeminada>Surabaia</cidadegeminada>
+               <cidadegeminada>Dublin</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Odessa</cidadegeminada>
+               <cidadegeminada>Panama City</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>53.4</latitude>
+          <longitude>-2.983</longitude>
+          <altitude>10</altitude>
+          <nhabitantes>445200</nhabitantes>
+     </cidade>
+     <cidade>
+          <nome>Barcelona</nome>
+          <pais>Espanha</pais>
+          <bandeirapais>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</bandeirapais>
+          <bandeiracidade>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/100px-Flag_of_Barcelona.svg.png</bandeiracidade>
+          <capital>false</capital>
+          <presidente>Ada COLAU BALLANO</presidente>
+          <clima>Clima mediterrânico (Classificação climática de Köppen-Geiger: Csa)</clima>
+          <fuso>UTC +1:00 (Europe/Madrid)</fuso>
+          <website>https://www.barcelona.cat</website>
+          <area uni="km2">98.21</area>
+          <densidade uni="hab_km2">16665.9</densidade>
+          <linguagens>
+               <lingua>Espanhol</lingua>
+          </linguagens>
+          <monumentos>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Barcelona%2C_airport_approach_%2827733825928%29.jpg/288px-Barcelona%2C_airport_approach_%2827733825928%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/1/18/View_of_Nativity_Fa%C3%A7ade_of_Basilica_and_Expiatory_Church_of_the_Holy_Family_%28Bas%C3%ADlica_i_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia%29_%28_UNESCO_World_Heritage_Site%29._Barcelona%2C_Catalonia%2C_Spain.jpg/88px-thumbnail.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Barcelona_-_panoramio_%28715%29.jpg/196px-Barcelona_-_panoramio_%28715%29.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barcelona_-_Arc_de_Triomf_%282%29.JPG/162px-Barcelona_-_Arc_de_Triomf_%282%29.JPG</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg/122px-Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg</monumento>
+               <monumento>//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Las_Ramblas%2C_Barcelona.jpg/199px-Las_Ramblas%2C_Barcelona.jpg</monumento>
+          </monumentos>
+          <cidadesgeminadas>
+               <cidadegeminada>Tirana</cidadegeminada>
+               <cidadegeminada>Rosário</cidadegeminada>
+               <cidadegeminada>Antuérpia</cidadegeminada>
+               <cidadegeminada>Sarajevo</cidadegeminada>
+               <cidadegeminada>Rio de Janeiro</cidadegeminada>
+               <cidadegeminada>São Paulo</cidadegeminada>
+               <cidadegeminada>Варна</cidadegeminada>
+               <cidadegeminada>Montréal</cidadegeminada>
+               <cidadegeminada>Valparaíso</cidadegeminada>
+               <cidadegeminada>Xangai</cidadegeminada>
+               <cidadegeminada>Medellín</cidadegeminada>
+               <cidadegeminada>Pereira</cidadegeminada>
+               <cidadegeminada>Manizales</cidadegeminada>
+               <cidadegeminada>Havana</cidadegeminada>
+               <cidadegeminada>Perpinhã</cidadegeminada>
+               <cidadegeminada>Montpellier</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Colônia</cidadegeminada>
+               <cidadegeminada>Dublin</cidadegeminada>
+               <cidadegeminada>Tel Aviv</cidadegeminada>
+               <cidadegeminada>Sassari</cidadegeminada>
+               <cidadegeminada>Kobe</cidadegeminada>
+               <cidadegeminada>Pusan</cidadegeminada>
+               <cidadegeminada>Monterrey</cidadegeminada>
+               <cidadegeminada>Mexico</cidadegeminada>
+               <cidadegeminada>Gaza</cidadegeminada>
+               <cidadegeminada>Gdańsk</cidadegeminada>
+               <cidadegeminada>São Petersburgo</cidadegeminada>
+               <cidadegeminada>Monzón</cidadegeminada>
+               <cidadegeminada>Tunes</cidadegeminada>
+               <cidadegeminada>Istambul</cidadegeminada>
+               <cidadegeminada>Dubai</cidadegeminada>
+               <cidadegeminada>Boston</cidadegeminada>
+               <cidadegeminada>São Francisco</cidadegeminada>
+               <cidadegeminada>Montevidéu</cidadegeminada>
+          </cidadesgeminadas>
+          <latitude>41.3879</latitude>
+          <longitude>2.16992</longitude>
+          <altitude>34</altitude>
+          <nhabitantes>1636762</nhabitantes>
+          <codigopostal>8071</codigopostal>
      </cidade>
 </catalogo>

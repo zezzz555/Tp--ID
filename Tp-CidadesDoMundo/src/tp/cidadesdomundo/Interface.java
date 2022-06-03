@@ -11,6 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import net.sf.saxon.s9api.SaxonApiException;
+import net.sf.saxon.s9api.XdmValue;
 import org.jdom2.Document;
 
 /**
@@ -67,6 +68,10 @@ public class Interface extends javax.swing.JFrame {
         jButton7 = new javax.swing.JButton();
         jTextField12 = new javax.swing.JTextField();
         jTextField13 = new javax.swing.JTextField();
+        jDialog8 = new javax.swing.JDialog();
+        jLabel15 = new javax.swing.JLabel();
+        jTextField14 = new javax.swing.JTextField();
+        jButton8 = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
@@ -93,12 +98,12 @@ public class Interface extends javax.swing.JFrame {
         jMenuItem13 = new javax.swing.JMenuItem();
         jMenuItem14 = new javax.swing.JMenuItem();
         jMenuItem15 = new javax.swing.JMenuItem();
+        jMenuItem19 = new javax.swing.JMenuItem();
         jMenu5 = new javax.swing.JMenu();
         jMenu6 = new javax.swing.JMenu();
 
         jLabel2.setText("Nome da cidade:");
 
-        jTextField1.setText("jTextField1");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
@@ -113,8 +118,6 @@ public class Interface extends javax.swing.JFrame {
         });
 
         jLabel3.setText("Nome do pais:");
-
-        jTextField2.setText("jTextField2");
 
         javax.swing.GroupLayout jDialog1Layout = new javax.swing.GroupLayout(jDialog1.getContentPane());
         jDialog1.getContentPane().setLayout(jDialog1Layout);
@@ -154,7 +157,11 @@ public class Interface extends javax.swing.JFrame {
 
         jLabel4.setText("Nome da cidade:");
 
-        jTextField3.setText("jTextField3");
+        jTextField3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField3ActionPerformed(evt);
+            }
+        });
 
         jButton2.setText("Remover");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -194,10 +201,6 @@ public class Interface extends javax.swing.JFrame {
         jLabel5.setText("Nome da cidade:");
 
         jLabel6.setText("Nova área:");
-
-        jTextField4.setText("jTextField4");
-
-        jTextField5.setText("jTextField5");
 
         jButton3.setText("Alterar");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -246,10 +249,6 @@ public class Interface extends javax.swing.JFrame {
 
         jLabel8.setText("Codigo postal novo:");
 
-        jTextField6.setText("jTextField6");
-
-        jTextField7.setText("jTextField7");
-
         jButton4.setText("Alterar");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -297,9 +296,17 @@ public class Interface extends javax.swing.JFrame {
 
         jLabel10.setText("Clima novo:");
 
-        jTextField8.setText("jTextField8");
+        jTextField8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField8ActionPerformed(evt);
+            }
+        });
 
-        jTextField9.setText("jTextField9");
+        jTextField9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField9ActionPerformed(evt);
+            }
+        });
 
         jButton5.setText("Alterar");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
@@ -348,10 +355,6 @@ public class Interface extends javax.swing.JFrame {
 
         jLabel12.setText("Presidente novo:");
 
-        jTextField10.setText("jTextField10");
-
-        jTextField11.setText("jTextField11");
-
         jButton6.setText("Alterar");
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -399,11 +402,7 @@ public class Interface extends javax.swing.JFrame {
 
         jLabel14.setText("Nova unidade de area:");
 
-        jButton7.setText("jButton7");
-
-        jTextField12.setText("jTextField12");
-
-        jTextField13.setText("jTextField13");
+        jButton7.setText("Alterar");
 
         javax.swing.GroupLayout jDialog7Layout = new javax.swing.GroupLayout(jDialog7.getContentPane());
         jDialog7.getContentPane().setLayout(jDialog7Layout);
@@ -414,16 +413,16 @@ public class Interface extends javax.swing.JFrame {
                     .addGroup(jDialog7Layout.createSequentialGroup()
                         .addGap(25, 25, 25)
                         .addGroup(jDialog7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel13, javax.swing.GroupLayout.PREFERRED_SIZE, 63, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jLabel14, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                            .addComponent(jLabel13, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel14, javax.swing.GroupLayout.PREFERRED_SIZE, 138, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(jDialog7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, 77, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 77, javax.swing.GroupLayout.PREFERRED_SIZE)))
                     .addGroup(jDialog7Layout.createSequentialGroup()
                         .addGap(98, 98, 98)
                         .addComponent(jButton7, javax.swing.GroupLayout.PREFERRED_SIZE, 75, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(85, Short.MAX_VALUE))
+                .addContainerGap(63, Short.MAX_VALUE))
         );
         jDialog7Layout.setVerticalGroup(
             jDialog7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -439,6 +438,43 @@ public class Interface extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jButton7)
                 .addContainerGap(30, Short.MAX_VALUE))
+        );
+
+        jLabel15.setText("Palavra de pesquisa:");
+
+        jButton8.setText("Pesquisar");
+        jButton8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton8ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jDialog8Layout = new javax.swing.GroupLayout(jDialog8.getContentPane());
+        jDialog8.getContentPane().setLayout(jDialog8Layout);
+        jDialog8Layout.setHorizontalGroup(
+            jDialog8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jDialog8Layout.createSequentialGroup()
+                .addGroup(jDialog8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jDialog8Layout.createSequentialGroup()
+                        .addGap(34, 34, 34)
+                        .addComponent(jLabel15, javax.swing.GroupLayout.PREFERRED_SIZE, 111, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, 152, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(jDialog8Layout.createSequentialGroup()
+                        .addGap(102, 102, 102)
+                        .addComponent(jButton8, javax.swing.GroupLayout.PREFERRED_SIZE, 93, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        jDialog8Layout.setVerticalGroup(
+            jDialog8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jDialog8Layout.createSequentialGroup()
+                .addGap(37, 37, 37)
+                .addGroup(jDialog8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel15, javax.swing.GroupLayout.PREFERRED_SIZE, 53, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jButton8)
+                .addContainerGap(27, Short.MAX_VALUE))
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -577,20 +613,53 @@ public class Interface extends javax.swing.JFrame {
         });
         jMenu3.add(jMenuItem10);
 
-        jMenuItem11.setText("Pesquisar por país");
+        jMenuItem11.setText("Pesquisar por pais");
+        jMenuItem11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem11ActionPerformed(evt);
+            }
+        });
         jMenu3.add(jMenuItem11);
 
-        jMenuItem12.setText("Pesquisar por nº de habitantes");
+        jMenuItem12.setText("Pesquisar por nº de habitantes superior a");
+        jMenuItem12.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem12ActionPerformed(evt);
+            }
+        });
         jMenu3.add(jMenuItem12);
 
         jMenuItem13.setText("Pesquisar por clima");
+        jMenuItem13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem13ActionPerformed(evt);
+            }
+        });
         jMenu3.add(jMenuItem13);
 
         jMenuItem14.setText("Pesquisar  capitais");
+        jMenuItem14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem14ActionPerformed(evt);
+            }
+        });
         jMenu3.add(jMenuItem14);
 
-        jMenuItem15.setText("...");
+        jMenuItem15.setText("Pesquisar por linguagem");
+        jMenuItem15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem15ActionPerformed(evt);
+            }
+        });
         jMenu3.add(jMenuItem15);
+
+        jMenuItem19.setText("Pesquisar por cidade geminada");
+        jMenuItem19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem19ActionPerformed(evt);
+            }
+        });
+        jMenu3.add(jMenuItem19);
 
         jMenuBar1.add(jMenu3);
 
@@ -883,6 +952,10 @@ public class Interface extends javax.swing.JFrame {
 
     private void jMenuItem10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem10ActionPerformed
         // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por nome");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
     }//GEN-LAST:event_jMenuItem10ActionPerformed
 
     private void jMenu3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenu3ActionPerformed
@@ -914,6 +987,121 @@ public class Interface extends javax.swing.JFrame {
             Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_jMenuItem17ActionPerformed
+
+    private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField3ActionPerformed
+
+    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField8ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField8ActionPerformed
+
+    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField9ActionPerformed
+
+    private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
+        // TODO add your handling code here:
+        //XPath
+        try{
+            String xp = null;
+                if (jDialog8.getTitle().equals("Pesquisar por nome")) {
+                    xp = "//cidade[contains(nome, '" + jTextField14.getText() + "')]/pais | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/capital | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/clima | "  
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/fuso | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/website | "        
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/area | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/densidade | "        
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/nhabitantes | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/latitude | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/longitude | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/altitude | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/presidente | "
+                    + "//cidade[contains(nome, '" + jTextField14.getText() + "')]/codigopostal";          
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por pais")) {
+                    xp = "//cidade[contains(pais,'" + jTextField14.getText() + "')]/nome";
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por numero de habitantes")) {
+                    xp = "//cidade[number(nhabitantes) > " + Integer.valueOf(jTextField14.getText()) + "]/nome";
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por clima")) {
+                    xp = "//cidade[contains(clima,'" + jTextField14.getText() + "')]/nome";
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por capitais")) {
+                    xp = "//cidade[contains(capital,'" + jTextField14.getText() + "')]/nome";
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por linguagem")) {
+                    xp = "//linguagens/lingua[contains(.,'" + jTextField14.getText() + "')]/../../nome";
+                }
+                if (jDialog8.getTitle().equals("Pesquisar por cidade geminada")) {
+                    xp = "//cidadesgeminadas/cidadegeminada[contains(.,'" + jTextField14.getText() + "')]/../../nome";
+                }
+                jDialog8.setVisible(false);
+                XdmValue res = XPathFunctions.executaXpath(xp, "cidades.xml");
+                String s = XPathFunctions.listaResultado(res);
+                if (res == null) {
+                    jTextArea1.setText("Ficheiro nao existe");
+                } else {
+                    if (res.size() > 0) {
+                        jTextArea1.setText(s);
+                    } else {
+                        jTextArea1.setText("Pesquisa sem resultados");
+                    }
+                }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton8ActionPerformed
+
+    private void jMenuItem11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem11ActionPerformed
+        // TODO add your handling code here:  
+        jDialog8.setTitle("Pesquisar por pais");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem11ActionPerformed
+
+    private void jMenuItem12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem12ActionPerformed
+        // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por numero de habitantes");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem12ActionPerformed
+
+    private void jMenuItem13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem13ActionPerformed
+        // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por clima");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem13ActionPerformed
+
+    private void jMenuItem14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem14ActionPerformed
+        // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por capitais");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem14ActionPerformed
+
+    private void jMenuItem15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem15ActionPerformed
+        // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por linguagem");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem15ActionPerformed
+
+    private void jMenuItem19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem19ActionPerformed
+        // TODO add your handling code here:
+        jDialog8.setTitle("Pesquisar por cidade geminada");
+        jDialog8.setSize(400, 200);
+        jDialog8.setLocation(200, 200);
+        jDialog8.setVisible(true);
+    }//GEN-LAST:event_jMenuItem19ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -958,6 +1146,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JButton jButton5;
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;
+    private javax.swing.JButton jButton8;
     private javax.swing.JDialog jDialog1;
     private javax.swing.JDialog jDialog2;
     private javax.swing.JDialog jDialog3;
@@ -965,12 +1154,14 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JDialog jDialog5;
     private javax.swing.JDialog jDialog6;
     private javax.swing.JDialog jDialog7;
+    private javax.swing.JDialog jDialog8;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -996,6 +1187,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JMenuItem jMenuItem16;
     private javax.swing.JMenuItem jMenuItem17;
     private javax.swing.JMenuItem jMenuItem18;
+    private javax.swing.JMenuItem jMenuItem19;
     private javax.swing.JMenuItem jMenuItem2;
     private javax.swing.JMenuItem jMenuItem3;
     private javax.swing.JMenuItem jMenuItem4;
@@ -1011,6 +1203,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField11;
     private javax.swing.JTextField jTextField12;
     private javax.swing.JTextField jTextField13;
+    private javax.swing.JTextField jTextField14;
     private javax.swing.JTextField jTextField2;
     private javax.swing.JTextField jTextField3;
     private javax.swing.JTextField jTextField4;
