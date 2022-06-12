@@ -373,7 +373,8 @@ public class Wrappers {
                     Matcher m = p.matcher(linha);
                     while (m.find() && i < 1) {                                  
                             i++;
-                            monumentos.add(m.group(1));                            
+                            String scr="https:"+m.group(1);
+                            monumentos.add(scr);                       
                     }                   
                 }
             }
@@ -388,7 +389,8 @@ public class Wrappers {
                     while (m.find() && i < 6) {                         
                         if(!m.group(1).contains(".svg.png")) {               
                             i++;
-                            monumentos.add(m.group(1));                            
+                            String scr="https:"+m.group(1);
+                            monumentos.add(scr);                            
                         }
                     }
                 }

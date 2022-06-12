@@ -117,6 +117,5 @@ public class TpCidadesDoMundo {
 //            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "cidades.xml");
 //        }
     }   
-   
 }
 

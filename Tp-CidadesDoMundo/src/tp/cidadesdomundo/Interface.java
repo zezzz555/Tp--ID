@@ -15,7 +15,9 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import net.sf.saxon.s9api.SaxonApiException;
 import net.sf.saxon.s9api.XdmValue;
+import net.sf.saxon.trans.XPathException;
 import org.jdom2.Document;
+import org.jdom2.Element;
 
 /**
  *
@@ -73,12 +75,15 @@ public class Interface extends javax.swing.JFrame {
         jLabel15 = new javax.swing.JLabel();
         jTextField14 = new javax.swing.JTextField();
         jButton8 = new javax.swing.JButton();
+        jDialog9 = new javax.swing.JDialog();
+        jLabel3 = new javax.swing.JLabel();
+        jTextField2 = new javax.swing.JTextField();
+        jButton9 = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
-        jMenuItem1 = new javax.swing.JMenuItem();
         jMenuItem2 = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
         jMenuItem3 = new javax.swing.JMenuItem();
@@ -110,7 +115,7 @@ public class Interface extends javax.swing.JFrame {
         jMenuItem25 = new javax.swing.JMenuItem();
         jMenuItem26 = new javax.swing.JMenuItem();
 
-        jLabel2.setText("Adicionar <Cidade, Pais>:");
+        jLabel2.setText("Adicionar <Cidade,Pais>:");
 
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -475,6 +480,40 @@ public class Interface extends javax.swing.JFrame {
                 .addContainerGap(27, Short.MAX_VALUE))
         );
 
+        jLabel3.setText("Pesquisar por:");
+
+        jButton9.setText("Pesquisar");
+        jButton9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton9ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jDialog9Layout = new javax.swing.GroupLayout(jDialog9.getContentPane());
+        jDialog9.getContentPane().setLayout(jDialog9Layout);
+        jDialog9Layout.setHorizontalGroup(
+            jDialog9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jDialog9Layout.createSequentialGroup()
+                .addGap(35, 35, 35)
+                .addComponent(jLabel3)
+                .addGap(18, 18, 18)
+                .addGroup(jDialog9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 138, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton9, javax.swing.GroupLayout.PREFERRED_SIZE, 94, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(86, Short.MAX_VALUE))
+        );
+        jDialog9Layout.setVerticalGroup(
+            jDialog9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jDialog9Layout.createSequentialGroup()
+                .addGap(40, 40, 40)
+                .addGroup(jDialog9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel3)
+                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(26, 26, 26)
+                .addComponent(jButton9)
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setText("Output");
@@ -484,14 +523,6 @@ public class Interface extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTextArea1);
 
         jMenu1.setText("Menu");
-
-        jMenuItem1.setText("Relatorio");
-        jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem1ActionPerformed(evt);
-            }
-        });
-        jMenu1.add(jMenuItem1);
 
         jMenuItem2.setText("Sair");
         jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
@@ -692,15 +723,35 @@ public class Interface extends javax.swing.JFrame {
         jMenu6.setText("Xquery");
 
         jMenuItem23.setText("HTML fotos dos monumentos");
+        jMenuItem23.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem23ActionPerformed(evt);
+            }
+        });
         jMenu6.add(jMenuItem23);
 
-        jMenuItem24.setText("jMenuItem24");
+        jMenuItem24.setText("XML detalhes cidade");
+        jMenuItem24.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem24ActionPerformed(evt);
+            }
+        });
         jMenu6.add(jMenuItem24);
 
-        jMenuItem25.setText("jMenuItem25");
+        jMenuItem25.setText("TXT cidades por fuso");
+        jMenuItem25.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem25ActionPerformed(evt);
+            }
+        });
         jMenu6.add(jMenuItem25);
 
-        jMenuItem26.setText("jMenuItem26");
+        jMenuItem26.setText("HTML cidades por linguagem");
+        jMenuItem26.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem26ActionPerformed(evt);
+            }
+        });
         jMenu6.add(jMenuItem26);
 
         jMenuBar1.add(jMenu6);
@@ -733,17 +784,6 @@ public class Interface extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
-         if (Desktop.isDesktopSupported()) {
-            try {
-                File myFile = new File("RelatorioID.pdf");
-                Desktop.getDesktop().open(myFile);
-            } catch (IOException ex) {
-                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
-            }
-        }
-    }//GEN-LAST:event_jMenuItem1ActionPerformed
-
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         System.exit(0);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
@@ -774,7 +814,7 @@ public class Interface extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
             try {                                         
                 // TODO add your handling code here:
-                String[] output = jTextField1.getText().split(", ");
+                String[] output = jTextField1.getText().split(",");
                 String cidade = output[0];
                 String pais = output[1];
                 Cidades x = Cidades.criaCidade(cidade,pais);
@@ -1166,14 +1206,14 @@ public class Interface extends javax.swing.JFrame {
 
     private void jMenuItem21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem21ActionPerformed
         // TODO add your handling code here:
-                Document doc = XMLJDomFunctions.lerDocumentoXML("cidades.xml");
+        Document doc = XMLJDomFunctions.lerDocumentoXML("cidades.xml");
         if (doc != null) {
             try {
                 JDOMFunctions_XSLT.transformaDocumento2("cidades.xml", "transf2.xsl", "cidadesEspanha.txt");
-                Scanner ler = new Scanner (new FileInputStream("cidadesEspanha.txt"));
+                Scanner ler = new Scanner(new FileInputStream("cidadesEspanha.txt"));
                 StringBuilder texto = new StringBuilder();
                 String linha;
-                while(ler.hasNextLine()){
+                while (ler.hasNextLine()) {
                     linha = ler.nextLine();
                     texto = texto.append(linha).append("\n");
                 }
@@ -1196,6 +1236,137 @@ public class Interface extends javax.swing.JFrame {
             jTextArea1.setText(t);
         }
     }//GEN-LAST:event_jMenuItem22ActionPerformed
+
+    private void jMenuItem23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem23ActionPerformed
+        // TODO add your handling code here:
+        //xquery fotos html
+        jDialog9.setTitle("HTML fotos monumentos");
+        jDialog9.setSize(400, 200);
+        jDialog9.setLocation(200, 200);
+        jDialog9.setVisible(true);
+    }//GEN-LAST:event_jMenuItem23ActionPerformed
+
+    private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
+        // TODO add your handling code here:
+        //xquery
+        if (jDialog9.getTitle().equals("HTML fotos monumentos")) {
+            try {
+                Element raiz = new Element("pedido");
+                Document docV = new Document(raiz);
+                raiz.addContent(jTextField2.getText());
+                XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "pedido.xml");
+                SaxonFunctions_XQuery.xQueryToHtml("fotosMonumentos.html", "monumentos.xql");
+                jDialog9.setVisible(false);
+                JOptionPane.showMessageDialog(this,
+                        "Query feita com sucesso... ficheiro HTML criado! ",
+                        "XQuery",
+                        JOptionPane.INFORMATION_MESSAGE);
+
+                String url = "fotosMonumentos.html";
+                File htmlFile = new File(url);
+                Desktop.getDesktop().browse(htmlFile.toURI());
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        if (jDialog9.getTitle().equals("XML detalhes cidade")) {
+            try {
+                Element raiz = new Element("pedido");
+                Document docV = new Document(raiz);
+                raiz.addContent(jTextField2.getText());
+                XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "pedido.xml");
+                SaxonFunctions_XQuery.xQueryToXml("detalhesCidade.xml", "CidadesPais.xql");
+                jDialog9.setVisible(false);
+                Document doc = XMLJDomFunctions.lerDocumentoXML("detalhesCidade.xml");
+                String t = XMLJDomFunctions.escreverDocumentoString(doc);
+                jTextArea1.setText(t);
+                JOptionPane.showMessageDialog(this,
+                        "Query feita com sucesso... ficheiro XML criado! ",
+                        "XQuery",
+                        JOptionPane.INFORMATION_MESSAGE);
+
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        if (jDialog9.getTitle().equals("TXT cidades fuso")) {
+            try {
+                Element raiz = new Element("pedido");
+                Document docV = new Document(raiz);
+                raiz.addContent(jTextField2.getText());
+                XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "pedido.xml");
+                SaxonFunctions_XQuery.xQueryToText("cidadesFuso.txt", "fuso.xql");
+                jDialog9.setVisible(false);
+                JOptionPane.showMessageDialog(this,
+                        "Query feita com sucesso... ficheiro TXT criado! ",
+                        "XQuery",
+                        JOptionPane.INFORMATION_MESSAGE);
+                Scanner ler = new Scanner (new FileInputStream("cidadesFuso.txt"));
+                StringBuilder texto = new StringBuilder();
+                String linha;
+                while(ler.hasNextLine()){
+                    linha = ler.nextLine();
+                    texto = texto.append(linha).append("\n");
+                }
+                ler.close();
+                jTextArea1.setText(texto.toString());
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        if (jDialog9.getTitle().equals("HTML cidades por linguagem")) {
+            try {
+                Element raiz = new Element("pedido");
+                Document docV = new Document(raiz);
+                raiz.addContent(jTextField2.getText());
+                XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "pedido.xml");
+                SaxonFunctions_XQuery.xQueryToHtml("linguagensCidade.html", "linguagens.xql");
+                jDialog9.setVisible(false);
+                JOptionPane.showMessageDialog(this,
+                        "Query feita com sucesso... ficheiro HTML criado! ",
+                        "XQuery",
+                        JOptionPane.INFORMATION_MESSAGE);
+
+                String url = "linguagensCidade.html";
+                File htmlFile = new File(url);
+                Desktop.getDesktop().browse(htmlFile.toURI());
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }//GEN-LAST:event_jButton9ActionPerformed
+
+    private void jMenuItem24ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem24ActionPerformed
+        // TODO add your handling code here:
+        jDialog9.setTitle("XML detalhes cidade");
+        jDialog9.setSize(400, 200);
+        jDialog9.setLocation(200, 200);
+        jDialog9.setVisible(true);
+    }//GEN-LAST:event_jMenuItem24ActionPerformed
+
+    private void jMenuItem25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem25ActionPerformed
+        // TODO add your handling code here:
+        jDialog9.setTitle("TXT cidades fuso");
+        jDialog9.setSize(400, 200);
+        jDialog9.setLocation(200, 200);
+        jDialog9.setVisible(true);
+    }//GEN-LAST:event_jMenuItem25ActionPerformed
+
+    private void jMenuItem26ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem26ActionPerformed
+        // TODO add your handling code here:
+        jDialog9.setTitle("HTML cidades por linguagem");
+        jDialog9.setSize(400, 200);
+        jDialog9.setLocation(200, 200);
+        jDialog9.setVisible(true);
+    }//GEN-LAST:event_jMenuItem26ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -1241,6 +1412,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
+    private javax.swing.JButton jButton9;
     private javax.swing.JDialog jDialog1;
     private javax.swing.JDialog jDialog2;
     private javax.swing.JDialog jDialog3;
@@ -1249,6 +1421,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JDialog jDialog6;
     private javax.swing.JDialog jDialog7;
     private javax.swing.JDialog jDialog8;
+    private javax.swing.JDialog jDialog9;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
@@ -1257,6 +1430,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
@@ -1270,7 +1444,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu5;
     private javax.swing.JMenu jMenu6;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JMenuItem jMenuItem1;
     private javax.swing.JMenuItem jMenuItem10;
     private javax.swing.JMenuItem jMenuItem11;
     private javax.swing.JMenuItem jMenuItem12;
@@ -1304,6 +1477,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField12;
     private javax.swing.JTextField jTextField13;
     private javax.swing.JTextField jTextField14;
+    private javax.swing.JTextField jTextField2;
     private javax.swing.JTextField jTextField3;
     private javax.swing.JTextField jTextField4;
     private javax.swing.JTextField jTextField5;

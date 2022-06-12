@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryResult>
+   <cidade>
+      <nome>Lisboa</nome>
+      <codigopostal>1100</codigopostal>
+      <website>https://www.lisboa.pt</website>
+   </cidade>
+   <cidade>
+      <nome>Maia</nome>
+      <codigopostal>4470</codigopostal>
+      <website>https://www.cm-maia.pt</website>
+   </cidade>
+</queryResult>
