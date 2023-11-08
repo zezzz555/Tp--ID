@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dist/lib/jdom-2.0.6.jar",
+        "dist/lib/saxon9.jar",
+        "dist/lib/saxon9-s9api.jar"
+    ]
+}
